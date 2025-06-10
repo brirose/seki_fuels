@@ -1,0 +1,74 @@
+---
+title: "Combine 2024"
+author: "Shive Lab (B. Baker)"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(tidyverse)
+library(readxl)
+library(janitor)
+```
+
+```{r}
+#Load access files
+fuelsfiles <- list.files(path=here("data/2024_toCombine/access_files"), full.names=T) #define files
+
+fuelsnames <- fuelsfiles%>% #define names
+ str_replace_all(c(".+files/" = "", ".xlsx" = "")) %>% 
+  tolower()
+
+fuelsdat <- fuelsfiles %>% #read in files
+  map(read_excel) %>%
+  set_names(fuelsnames)
+
+#invisible(list2env(dat ,.GlobalEnv)) #remove from list (dont actually need to do this)
+
+```
+
+```{r}
+form_shortnames <- c("overview", "cwd", "fwd", "overstory", "poles", "regen")
+
+for (i in form_shortnames) {
+  form <- i
+  
+  formdat <- fuelsdat[str_detect(fuelsnames, form)]
+  
+  form_df <- map_df(formdat, data.frame, .id = 'name')
+  
+  write_csv(form_df, here(paste("data/outputs/2024_combined/",form,"_combined_notClean.csv", sep = "")))
+  
+}
+
+```
+
+
+```{r}
+#NOTE THIS DOES NOT CATCH NOTES WRITTEN IN RANDOM COLUMNS
+
+interceptfiles <- list.files(path=here("data/2024_toCombine/point_inter"), full.names=T) #define files
+#wait here
+
+Ndat <- interceptfiles %>% #read in files
+  map(read_excel, sheet = "North-South", range = "D1:M30") %>%
+  map( ~ .x %>% mutate(across(c(Date, PlotID, ReadStatus), as.character)))%>%
+  list_rbind() 
+
+Edat <- interceptfiles %>% #read in files
+  map(read_excel, sheet = "East-West", range = "D1:M30") %>% 
+  map( ~ .x %>% mutate(across(c(Date, PlotID, ReadStatus), as.character)))%>%
+  list_rbind() 
+
+ptInter <- Ndat %>% 
+  bind_rows(Edat)%>% 
+  clean_names() %>% 
+  drop_na(pt) %>% 
+  mutate_all(~replace(., is.na(.), "none"))
+
+write_csv(ptInter, here("data/outputs/2024_combined/ptInter_combined_notClean.csv"))
+
+```
+

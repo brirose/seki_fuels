@@ -1,0 +1,474 @@
+name,PlotID,Transect,FWD_1_hour,FWD_10_hour,FWD_100_hour,Litter1,Duff_1,Litter_2,Duff_2,Litter_3,Duff_3,Litter_4,Duff_4,Litter_5,Duff_5,Notes,Recorders
+fuels_fwd_table_big11nov,ATWE-THIN-01,E,10,7,2,7.9,2,8.3,2.8,5.7,2.2,7.9,2.9,6.8,3.1,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-01,N,10,2,2,8.9,7.6,8.5,2.8,7.4,1.2,14.3,2.1,7.6,2.9,SAMPLE 2 BUMPED 5FT RIGHT,AE
+fuels_fwd_table_big11nov,ATWE-THIN-01,S,18,9,3,5,3.8,5.3,4.4,6.8,5.1,8.2,4.7,6.7,1.3,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-01,W,18,9,3,8.8,2.3,9.2,2.2,5.7,4.8,6.1,4.9,9.3,1.9,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-02,E,2,1,1,12.8,19,15.1,16.9,15.8,6.4,5.8,8.1,18.4,6.1,"SAMPLE 1 BUMPED RIGHT 1FT, SAMPLE 3 BUMPED RIGHT 3FT, SAMPLE 4 BUMPED LEFT 3FT, SAMPLE 1 DUFF IS 22.9CM",AW-TH
+fuels_fwd_table_big11nov,ATWE-THIN-02,N,6,3,2,0,10,6.8,8,9,3.2,9,5.1,6.2,3.8,"SAMPLE 2 BUMPED LEFT 5 FT, SAMPLES 3/4/5 BUMPED LEFT 3FT",AW
+fuels_fwd_table_big11nov,ATWE-THIN-02,S,1,4,0,5,6.9,4.3,3.4,4.2,6.8,7.7,7.9,14.8,5,"SAMPLE 1 BUMPED RIGHT 3FT, SAMPLES 2 AND 4 BUMPED 1FT TO THE RIGHT",AW
+fuels_fwd_table_big11nov,ATWE-THIN-02,W,1,5,0,0,0,0,0,0,0,0,0,0,0,"ALL BEDROCK, SEE PICTURES",AW-TH
+fuels_fwd_table_big11nov,ATWE-THIN-04,E,4,3,0,0,0,0,0,0,0,0,0,2.2,0,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-04,N,1,2,0,2.9,0,2,4,6.1,0,2.9,2.8,3.8,3.4,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-04,S,3,0,0,0,0,0,0,0,0,0,0,1.2,0,SAMPLE 3 BUMPED 1FT DOWN AND 5FT RIGHT,TH
+fuels_fwd_table_big11nov,ATWE-THIN-04,W,1,2,0,0,0,0,0,0.9,0.7,0,0,0,0,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-06,E,85,8,2,0.1,14.2,3.4,5.5,0.8,0.1,0.3,1.7,1.9,5.2,"SAMPLE 2 BUMPED LEFT 4FT, SAMPLE 1 BUMPED LEFT 3FT",AE
+fuels_fwd_table_big11nov,ATWE-THIN-06,N,17,3,0,0.6,1.9,0.7,3.8,1.8,2.3,4.1,0,4.9,0.1,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-06,W,61,1,0,2.8,3.5,0.2,8.7,3,1.4,5.2,3.7,2.1,0,SAMPLE 3 BUMPED RIGHT 1FT,AE
+fuels_fwd_table_big11nov,ATWE-THIN-06\,S,33,1,0,0.1,3.3,0.4,8.9,0.5,5.4,1.7,2.6,0.1,7.3,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-23,E,51,6,0,0.8,1.7,1.2,0.9,1.8,2.2,0.2,0.8,3.8,0,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-23,N,77,6,0,2.7,0.3,3.9,0,5.4,0,2.1,0.1,1.8,0.4,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-23,S,56,6,0,3.8,2.5,5.1,0.2,1.4,0,3.7,0.1,2,0.8,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-23,W,59,4,2,0.9,0.2,1.5,0.1,2.4,1.3,2.7,0.8,3.2,0.2,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-24,E,26,10,4,0,0,0,0,3,0,2.8,2.1,0.7,0,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-24,N,24,4,0,1.3,0,0,0,0,0,3.9,6.3,3.1,0,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-24,S,153,21,4,0,0,0,0,0,0,4.2,0,0,0,SAMPLE 3 BUMPED RIGHT 3FT,TH
+fuels_fwd_table_big11nov,ATWE-THIN-24,W,12,11,2,3,0,2.7,0,0.6,0,2.3,0,0.5,0,SAMPLE 4 BUMPED RIGHT 1FT,TH
+fuels_fwd_table_big11nov,ATWE-THIN-25,E,25,6,0,7.1,8.9,9,7.3,10.6,5,11.3,4.9,6.4,13.4,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-25,N,14,0,0,1.1,5.3,5.3,4.5,3.5,8.8,6.4,6.8,13.1,1.2,SAMPLES 3 AND 4 BUMPED RIGHT 1FT,TH
+fuels_fwd_table_big11nov,ATWE-THIN-25,S,46,0,0,3.4,5,6.8,14.3,5.1,6.6,4.9,7.1,2.8,4.6,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-25,W,18,3,2,8.8,5,12,9.6,9.3,7.8,6.5,11,5.2,14.8,NA,TH
+fuels_fwd_table_big11nov,ATWE-THIN-36,E,10,3,0,0.4,1.5,3.1,2.4,3,1.8,0.9,6.3,2.8,2.1,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-36,N,18,2,0,2.1,0.1,2.3,0.2,3.2,0.1,3.9,1.7,1.3,0.2,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-36,S,11,5,1,3.1,0.3,5.3,0,1.1,0.5,5.6,1.2,1.3,0,SAMPLE 2 BUMPED 1 FT RIGHT.,AE
+fuels_fwd_table_big11nov,ATWE-THIN-36,W,28,9,0,4.4,0.2,0.6,0,0,0,1.1,1.2,0,0,SAMPLE 2 BUMPED 1 FT. RIGHT,AE
+fuels_fwd_table_big11nov,ATWE-THIN-39,E,24,3,1,2.6,2.8,3.7,5,0.3,2.8,0.8,0.2,4.5,6.1,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-39,N,3,2,0,2.4,4.7,3,0.2,3.1,1.4,2.5,3.4,0.3,2.9,NA,AE
+fuels_fwd_table_big11nov,ATWE-THIN-39,S,3,3,2,2.2,1.5,0.6,1.1,1.2,2.1,0,0,2.4,0,SAMPLE 3 BUMPED 1FT LEFT,AE
+fuels_fwd_table_big11nov,ATWE-THIN-39,W,14,2,0,3.9,7.4,4,3.2,3.4,2.5,2.9,3.3,2.8,2.7,SAMPLE 2 BUMPED 1FT RIGHT,AE
+fuels_fwd_table_big11nov,BIST-RX-01,E,27,6,1,1.7,9.2,4.8,1.4,0.9,0.2,3.7,5.3,0.9,9.1,3 B2,KF
+fuels_fwd_table_big11nov,BIST-RX-01,N,39,9,5,2.3,2.8,1.9,5,1.8,2.6,4.4,4,5.1,10,2 bump left 1ft,TH
+fuels_fwd_table_big11nov,BIST-RX-01,S,11,3,0,3.2,9,4.2,6.6,2.6,1.3,0,0.3,1.6,1,"4 bump R 5ft
+4 bump R 5 ft",TH
+fuels_fwd_table_big11nov,BIST-RX-01,W,214,2,0,0.8,8.1,1.2,2.8,0.3,0,0,0,0,0,NA,KF
+fuels_fwd_table_big11nov,BIST-RX-02,E,6,0,0,6.2,9.2,6.9,6.7,5.3,8.4,3.8,6.8,5.3,5.2,Sample 1 bumped 1 ft. right.,TH_KF
+fuels_fwd_table_big11nov,BIST-RX-02,N,27,8,1,6.3,5.7,1.9,5.2,7.1,8.9,4,7.1,4,3.9,NA,TH_KF
+fuels_fwd_table_big11nov,BIST-RX-02,S,27,6,3,3.9,4.2,1.9,0.4,6.9,7,0.3,6.9,0.2,0,Sample 5 bumped 4 ft. right.,TH_KF
+fuels_fwd_table_big11nov,BIST-RX-02,W,48,4,0,4.3,3.7,3.4,0.3,1.4,10.4,0.2,0,0.3,0,Sample 1 bumped 2 ft. left. Sample 2 bumped 2 ft. left.,TH_KF
+fuels_fwd_table_big11nov,BIST-RX-03,E,8,5,7,7.6,5.8,4.8,3.1,5.6,4,8.2,1.4,7.6,9.1,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-03,N,9,5,8,10.6,4.5,7.3,15,4.8,1.7,6.3,0.2,3.2,1.8,SAMPLE 2 BUMPED 1FT LEFT,AE
+fuels_fwd_table_big11nov,BIST-RX-03,S,11,3,1,3.7,2.6,4.1,2.8,5.7,2.9,4.8,2.5,10.2,9.4,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-03,W,12,3,5,1.2,0,5.2,3.4,8.7,2.1,7.5,6.8,2.7,2.1,"STUMP COVERS FINAL METER OF TRANSECT LINE. BUMPED SAMPLE TO 27-29. BETWEEN 28-29 THERE WERE 4 1S, 1 10, AND 2 100S.",AE
+fuels_fwd_table_big11nov,BIST-RX-04,E,4,7,4,0.7,3.9,1.8,5.2,2.9,2.3,1.9,0.1,5,9.2,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-04,N,6,6,7,1.9,6.1,2.1,0.3,6.7,0.8,7.2,2.6,1.5,15.9,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-04,S,1,0,0,3.6,3.1,0.9,0.1,3.8,7.2,3.9,2.9,3.1,2.9,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-04,W,40,6,1,2.1,3.6,4.1,2.9,1.4,1.2,1.9,3.6,2.1,4.8,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-05,E,5,1,0,0.9,1.1,0.5,1.6,0.5,1.1,0,0.9,2.8,3.5,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-05,N,1,0,0,0.3,0.2,0,2,0,0,0,4,1.7,6.8,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-05,S,17,4,0,0.8,1.8,0,0,3.3,1.1,0.5,0,1.1,10,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-05,W,1,6,0,0.3,0.6,4,3.6,5.2,2.6,1.2,1.1,0.4,1.8,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-06,E,26,3,5,2.9,5.1,2.9,4.6,3,9.1,2.9,6.1,1.8,5.4,"S4R1, S2R3, S1L2",AE-KF
+fuels_fwd_table_big11nov,BIST-RX-06,N,41,1,0,7.2,7.3,5.1,7.3,8.4,4.7,3.9,4,0.9,8,S5L2,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-06,S,22,6,3,3.7,7.6,5.9,0,3.5,9.1,4.4,8.8,1.4,3.3,D2 30.2,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-06,W,18,9,5,7.6,18.2,6.2,0,7.1,6.4,13.5,18,6.4,3.3,D2 28.4,KF
+fuels_fwd_table_big11nov,BIST-RX-07,E,0,0,1,14.9,0.2,8.4,1.9,4.9,5.3,4.7,3.4,20.1,4.6,NA,AE-TH
+fuels_fwd_table_big11nov,BIST-RX-07,N,7,6,1,17.1,3.2,12.4,6.3,16.9,5.7,6,3.5,6.4,7.8,SAMPLE 1 BUMPED RIGHT 3 METERS,AE-TH
+fuels_fwd_table_big11nov,BIST-RX-07,S,0,0,0,0.1,4.3,6.8,4.5,2.7,4.2,3.6,8.1,2.9,5.4,SAMPLE 2 BUMPED RIGHT 1FT,AE-TH
+fuels_fwd_table_big11nov,BIST-RX-07,W,18,9,5,14.3,8.6,8.5,3.2,13.8,9.1,9.7,5.3,1.8,4,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-08,E,2,1,0,0.6,8.7,1.8,10.3,2.1,8.7,3.7,6.9,2.8,10.3,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-08,N,11,4,4,12.4,11,12.1,10.8,5.2,7.4,3.1,4.6,3.5,5.8,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-08,S,3,2,2,5.2,10.7,1.9,0.3,8.1,6,7.3,3.5,3.8,2.3,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-08,W,3,9,3,2.6,3.3,4.1,5.2,2.4,10.9,3.1,6.2,1.8,6.5,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-09,E,45,22,12,8.2,6.6,0.3,2,1.6,6.1,7,1,2.9,9,Sample 2 bumped 1 ft. right. Sample 3 bumped 1 ft. left.,TH
+fuels_fwd_table_big11nov,BIST-RX-09,N,2,3,2,0.6,3.1,0.5,4.5,2.9,1.9,1.3,3,6.1,5,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-09,S,5,0,0,1.9,2.5,2.4,7.3,7.2,5.8,3.2,8.5,0.7,13,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-09,W,2,4,3,7.9,4.6,6.4,8.6,0.2,3.9,2.8,2,2.4,4.1,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-10,E,19,3,1,1,3.2,2.4,5.1,0.4,3.8,2.9,4.2,4.1,1.8,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-10,N,48,13,1,2.9,2.8,4,3.2,2.1,0.7,4.2,0.6,4.2,2,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-10,S,4,6,2,2.8,5.1,2.3,4.2,0.6,3.1,3.7,3.6,5.8,8.3,NA,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-10,W,3,4,3,5.6,0.1,4.2,0.1,2.1,0.6,9.2,0,1.3,0.4,SAMPLE 2 BUMPED 2FT BACK AND 2FT LEFT,AE-KF
+fuels_fwd_table_big11nov,BIST-RX-11,E,94,2,29,2.8,0.2,14.7,4.3,5.9,2.4,4.7,8.1,2.3,7.5,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-11,N,25,4,6,1.3,12.4,2.8,3.6,0.2,0,0.3,0,0.5,0.2,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-11,S,77,8,3,0.8,12.3,7.6,3.8,2.7,5.1,0.8,0,3.6,3,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-11,W,15,0,1,3.7,5.2,4.3,2.2,3.9,8.1,2.7,1.5,1.3,0,NA,AE
+fuels_fwd_table_big11nov,BIST-RX-12,E,8,3,3,3.4,7.2,10,8.1,5.5,6.9,20,19.9,1.4,19.9,Duff sample 5 = 33.6. Duff sample 4 = 27.2. Sample 3 bumped 1 ft. right. Sample 1 bumped 3ft. Right.,KF
+fuels_fwd_table_big11nov,BIST-RX-12,N,21,5,2,5.9,4.8,5.9,1.1,1.4,0.1,2.9,0.1,0.2,0,NA,KF
+fuels_fwd_table_big11nov,BIST-RX-12,S,12,9,6,10.9,17.4,7.3,3.1,4.2,4.9,2.3,5.4,1.8,0.2,Sample 2 bumped 2 ft. left. Sample 4 bumped 1 ft. left.,KF
+fuels_fwd_table_big11nov,BIST-RX-12,W,40,5,2,3.2,10.3,0.4,1.5,0.4,0,5.1,8.1,7.6,6.7,NA,KF
+fuels_fwd_table_big11nov,BIST-RX-13,E,13,5,5,3.4,4,3,1.8,0.8,2.1,3.5,1.6,3.4,1,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-13,N,20,15,0,10,7.8,3.8,6.6,4.8,5.3,1.7,0.3,0,0,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-13,S,3,2,3,2.2,1.7,3.6,2,4.3,4.3,5.6,0.8,6.5,12.1,NA,TH
+fuels_fwd_table_big11nov,BIST-RX-13,W,41,0,3,2,0.8,3,1,4,5.2,2.2,2,2.9,3.6,"PILE ON FWD, BUMPED DOWN 1.5 M. BETWEEN 28.5-28, THERE WERE 23 1S, NO 10S, AND NO 100S",TH
+fuels_fwd_table_big11nov,EAFR-RX-02,N,9,4,1,8.6,3.5,0.2,0,4.5,0,2.8,0,3.4,0,"Sample 4 bumped 1ft right, Sample 3 bumped 1ft left, Sample 1 bumped 1ft left",KF_AE
+fuels_fwd_table_big11nov,EAFR-RX-02,S,13,5,3,2.4,2.2,1.1,0.3,2.1,3.5,0.3,0,1.9,0,"Sample 1 is bumped 1ft to the right, sample 2 is bumped 1ft to the left, sample 3 is bumped 1ft to the right",KF_AE
+fuels_fwd_table_big11nov,EAFR-RX-02,W,10,1,0,0.6,0,0.8,0,1.9,0,1.2,0.7,2.1,0,NA,AE_KF
+fuels_fwd_table_big11nov,EAFR-RX-03,E,100,9,4,3,0,6,0,3.2,2,10.6,0.9,5.6,2.2,"Sample 3 bumped left 1ft, Sample 2 bumped right 1ft, Sample 1 bumped right 1ft",AB_AE
+fuels_fwd_table_big11nov,EAFR-RX-03,N,40,5,5,2.3,0,1.5,3.1,1.8,2.5,3.2,2.4,2.6,1.7,6.5 BUMPED 2FT RIGHT,AB_AE
+fuels_fwd_table_big11nov,EAFR-RX-03,S,9,7,0,1.5,1.1,3.6,4.8,5.2,1.6,4.8,1.9,4.3,1.7,Sample 3 bumped left 1ft,AB_AE
+fuels_fwd_table_big11nov,EAFR-RX-03,W,36,11,3,4.3,2.6,8.5,5.2,6.1,4.6,5.4,1.8,7.9,1.6,"8.5 BUMPED 2FT LEFT,",AB_AE
+fuels_fwd_table_big11nov,EAFR-RX-07,N,34,5,2,6.2,4.3,8.7,5.6,6.5,0,8.4,0.5,3.9,2.4,12.5 BUMPED 1FT LEFT,NA
+fuels_fwd_table_big11nov,EAFR-RX-07,S,47,7,7,1.4,0,1.4,4.5,6.2,1,3.6,1.8,5.2,1.9,NA,AB_AE
+fuels_fwd_table_big11nov,EAFR-RX-07,W,53,4,8,2.3,1.1,0.7,1.5,0.4,1.4,1.1,1.2,0.8,2.9,NA,AB_KF
+fuels_fwd_table_big11nov,EAFR-RX-08,N,46,5,4,4.1,2.2,3.6,2.4,6.3,3,6.7,0,5.2,4.7,NA,TH_AB
+fuels_fwd_table_big11nov,EAFR-RX-08,S,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,TH_AB
+fuels_fwd_table_big11nov,EAFR-RX-11,N,10,5,1,5.5,0.3,1.8,2.1,2,3,1.3,2.4,8,0.9,"4.5 sample bumped right 5ft, 12.5 bumped right 1ft",TH_AE
+fuels_fwd_table_big11nov,EAFR-RX-11,S,24,9,4,2.6,4.5,3.5,5.3,5.6,0.9,5.1,0,2.3,2.9,"Sample 1 bumped left 1ft, Sample 4 bumped right 5ft, Sample 5 bumped right 5ft",TH_AE
+fuels_fwd_table_big11nov,EAFR-RX-11,W,34,2,1,3.7,7.1,2.8,4.1,1.9,4.2,1.4,5.1,1.1,0.4,"Sample 4 bumped 1 ft to left. Sample 2 bumped down 1 ft, 3 ft to the left.",TH_AE
+fuels_fwd_table_big11nov,EAFR-RX-14,E,42,15,0,2.7,2.6,1.8,5.9,1.3,3.5,5.9,3.1,5.9,2.8,Sample 5 bumped 3 ft up. Sample 2 bumped 4 ft left.,TH_KF
+fuels_fwd_table_big11nov,EAFR-RX-14,N,11,3,1,7,5.4,4.8,6,4.1,7.5,8.8,0.3,6.5,3.7,Sample 5 is bumped 1ft left ( E),TH_KF
+fuels_fwd_table_big11nov,EAFR-RX-14,S,12,5,2,7.8,0,8.2,5.5,5.6,5.3,9.3,0,4.6,4,"Sample 3 bumped 4ft to left (E), sample 4 bumped 4ft to right (W), sample 1 is bumped 4ft to (W)",TH_KF
+fuels_fwd_table_big11nov,EAFR-RX-14,W,6,0,1,14.5,4,5.8,9.6,3.4,1,7.2,3.7,9.1,0,Sample 5 bumped 1 ft to right.,TH_KF
+fuels_fwd_table_big11nov,EAFR-RX-16,E,51,11,16,8.5,4.3,5.9,1.8,3.1,0.4,11.2,3.3,4.2,0.3,NA,"AE, KF"
+fuels_fwd_table_big11nov,EAFR-RX-16,W,30,4,0,0.5,0,3.1,0.8,4.5,2.2,2.3,1.6,6.1,2.8,NA,"AE, KF"
+fuels_fwd_table_big11nov,EAFR-RX-17,E,23,0,0,0.2,0,3.8,0.6,3.1,3.6,4.2,3.8,2.3,1.8,"6.5 BUMPED LEFT 1FT, 8.5 BUMPED1FT LEFT, 10.5 BUMPED 2FT RIGHT",AB_KF
+fuels_fwd_table_big11nov,EAFR-RX-17,N,18,4,0,6.5,9.2,3.4,2.8,3,1.2,3.4,0,1.7,0.6,"Sample 5 bumped 2ft right, sample 4 bumped 3ft right, sample 1 bumped 3ft right",AE_KF
+fuels_fwd_table_big11nov,EAFR-RX-17,S,90,11,0,6.4,4.5,5,0,2.8,0.8,3.8,1.2,4.2,1.3,"Sample 2 bumped 2ft right, sample 4 bumped 3ft left",KF_AE
+fuels_fwd_table_big11nov,EAFR-RX-17,W,14,4,6,0.3,0.2,0.8,0.7,3.9,0,3.6,0,1.8,0.7,NA,AB_KF
+fuels_fwd_table_big11nov,EAFR-RX-20,E,20,5,2,1.1,1.1,2.1,3.1,4,3.1,2.2,1.8,1.7,6.3,Sample 2 bumped 1 ft to RIGHT. Sample 3 bumped 2 ft to left.,TH
+fuels_fwd_table_big11nov,EAFR-RX-20,N,22,4,1,1.7,4.1,0.4,4.2,1.2,5,5.4,2,0.2,0.6,Sample 3 bumped 4ft right,KF
+fuels_fwd_table_big11nov,EAFR-RX-20,S,56,8,0,1,1.5,9.8,1.5,1.2,1.8,0.4,1.1,1.1,1,Sample 2 bumped 2ft right,KF
+fuels_fwd_table_big11nov,EAFR-RX-20,W,17,7,2,1.3,1.1,12.1,0,0.5,3,1.3,1.1,2.5,0.6,Sample 4 bumped 2 ft to right. Sample 3 umped 2 ft to right. Sample 2 bumpe 1 ft to right.,TH
+fuels_fwd_table_big11nov,EAFR-RX-22,N,88,6,9,6.3,4.1,11.4,5.2,3.1,1.5,2.6,0,0.3,1.4,NA,AE
+fuels_fwd_table_big11nov,EAFR-RX-22,S,16,4,1,0.9,1.4,6.2,5.8,4.1,2.4,4.7,1.3,0.5,2,SAMPLE 4 BUMPED RIGHT 1FT,AE
+fuels_fwd_table_big11nov,EAFR-RX-22,W,7,3,4,7.2,2.1,5.9,4.5,6.4,5.6,5,1.6,0.3,0,"SAMPLE 3 BUMPED RIGHT AND UP 1FT, SAMPLE 5 BUMPED RIGHT 1FT",AE-TH
+fuels_fwd_table_big11nov,FAKE,N,99,99,99,0,0,0,0,0,0,0,0,0,0,FAKE SHEET - IGNORE,NA
+fuels_fwd_table_big11nov,GRGR-RX-06,E,15,4,1,1.3,4.3,1.6,5,2.1,6.2,1.8,2.7,4.3,3.4,"SAMPLE 2 BUMPED 1FT RIGHT, SAMPLE 3 BUMPED 2FT RIGHT",KF
+fuels_fwd_table_big11nov,GRGR-RX-06,N,25,7,4,2.7,5.4,10,9.8,12.3,4.2,9.3,5.1,5.1,3.8,SAMPLE 2 BUMPED 1M RIGHT,BB
+fuels_fwd_table_big11nov,GRGR-RX-06,S,20,5,4,12.4,4.2,4.4,2.3,14.2,4.7,10,3.5,6.7,3.3,"SAMPLE 2 BUMPED 1M LEFT, SAMPLE 3 BUMPED 1M LEFT, SAMPLE 5 BUMPED 1M LEFT",BB
+fuels_fwd_table_big11nov,GRGR-RX-06,W,19,3,13,6,4,1.6,9,1.9,2.9,1.7,5.3,17,10,"SAMPLE 1 BUMPED 1FT RIGHT, SAMPLE 2 BUMPED 2FT RIGHT, SAMPLE 3 BUMPED 2FT LEFT, SAMPLE 5 BUMPED 3FT RIGHT",KF
+fuels_fwd_table_big11nov,GRGR-RX-09,N,9,0,0,0.8,1.6,2.1,0.2,2.3,4.1,0.5,0,0.9,0,NA,AE
+fuels_fwd_table_big11nov,GRGR-RX-09,S,10,3,4,0.3,2,0.9,0,4.1,2.8,1.7,0.3,1.3,6.1,"1 BUMP 1FT L, 2 BUMP 1FTR, 3 B 2FT R, 4 B 1MR",AE
+fuels_fwd_table_big11nov,GRGR-RX-09,W,1,1,2,0.6,0,0.3,0,4.8,2.3,3.9,0.9,10,0,NA,TH
+fuels_fwd_table_big11nov,GRGR-RX-11,E,22,13,2,0,0,5.1,3.9,0.2,0.6,4.1,1.2,5.7,2.6,Sample 3 bumped 2 ft. left. Sample 4 bumped 1 ft. left.,TH
+fuels_fwd_table_big11nov,GRGR-RX-11,N,37,5,1,3.3,8.4,1.2,2.8,2.9,2.1,0.2,0.5,1.1,2.6,Sample 4 bumped 1 ft. right.,AE
+fuels_fwd_table_big11nov,GRGR-RX-11,S,33,7,3,9.5,8,6.3,7.8,5.6,9.2,2.9,4.2,5.3,5.5,Sample 1 bumped 1m Right and 0.5 m up.,AE
+fuels_fwd_table_big11nov,GRGR-RX-11,W,52,6,0,0,2.5,2.8,1.6,1.7,8.1,0,5.2,1.9,7.3,Sample 2 bumped 2 ft. left.,TH
+fuels_fwd_table_big11nov,SECR-PILE-02,N,16,0,15,2.2,2.1,6.3,5,3.4,2.1,7.2,3.8,2.3,0,FAKE PLOT IGNORE,TH_AB
+fuels_fwd_table_big11nov,SECR-THIN-02,S,25,3,2,3.4,2.3,3.2,1.3,0.6,0,3.4,3,0.4,0,"FAKE PLOT IGNORE
+Sample 3 bumped 3 ft right. Sample 4 bumped 4 ft right.",TH_AB
+fuels_fwd_table_big11nov,SECR-THIN-02,W,35,4,2,1.8,0,3.7,0,1.9,2.8,2.9,3.1,1.8,0,FAKE PLOT IGNORE,NA
+fuels_fwd_table_big11nov,SECR-THIN-02REAL,E,48,6,1,0.5,0.2,1.6,1.1,6.2,8.1,3.3,0,3.8,0,"4.5 BUMPED 1FT R, 8.5 BUMPED TO 8.7, 12.5 BUMPED L 1FT",AE
+fuels_fwd_table_big11nov,SECR-THIN-02REAL,N,4,5,0,0,0,4.8,4.6,14.1,6.7,3.1,0,1.9,0,"10.5 BUMPED 5FT R, 12.5 BUMPED 5FT L",TH
+fuels_fwd_table_big11nov,SECR-THIN-02REAL,S,16,1,0,0.4,9,3.1,2.8,7.7,4.9,11.1,0,2,0,"17.5 BUMPED 4FT R, 21.5 BUMPED 3FT L",NA
+fuels_fwd_table_big11nov,SECR-THIN-02REAL,W,8,1,3,9.8,7.3,2.4,1.9,5,2.7,10.9,0.6,6.2,5.3,"17.5 BUMPED R 1FT, 23.5 BUMPED R 1FT",AE
+fuels_fwd_table_big11nov,SECR-THIN-05,N,10,2,3,1.7,6.3,2.4,8.1,0,0.8,1.2,7.5,2.9,4.8,"6.5 1FT R, 8.5 1FT L, 12.5 1FT R",AE
+fuels_fwd_table_big11nov,SECR-THIN-05,S,21,9,1,3.6,3.2,4.1,3,0.4,0,0.4,0,0.8,0,25.5 BUMPED 2FT RIGHT,AB
+fuels_fwd_table_big11nov,SECR-THIN-05,W,30,9,0,10.5,8.6,9,7.6,4.1,3.9,3.2,5.8,2.7,1.8,NA,TH_AE
+fuels_fwd_table_big17nov,REME-THIN-02,E,15,5,1,0.6,0,0.4,0,0.4,0,0.3,0,0.3,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-02,N,1,1,0,0.3,0,1.2,0,0.4,0,0.8,0,0.6,0,SAMPLE 1 AND 2 BUMPED RIGHT 1FT,AB
+fuels_fwd_table_big17nov,REME-THIN-02,S,11,1,0,0,0,0.3,0,0.6,0,1.2,0,2.3,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-02,W,11,1,2,0.3,0,0.4,0,0.3,0,0,0,0,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-03,E,5,0,0,0,0,0.3,0,0.4,0,0,0,0.4,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-03,N,0,0,0,0,0,3.2,0.4,2.3,0.9,0.3,0,0,0,SAMPLE 1 BUMPED LEFT 1FT,AB
+fuels_fwd_table_big17nov,REME-THIN-03,S,7,4,0,0,0,0,0,0,0,0.4,0,1.1,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-03,W,6,1,0,0,0,0.1,0,0,0,4.3,0,0.1,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-06,E,9,1,0,0.7,0.4,0.8,0,1.3,0,1.2,0,2.9,0,SAMPLE 2 BUMPED LEFT 1FT,AE-KF
+fuels_fwd_table_big17nov,REME-THIN-06,N,18,3,2,3.1,2.5,1.4,0,1.1,0.2,1.3,0.2,0.5,0.8,NA,AE-KF
+fuels_fwd_table_big17nov,REME-THIN-06,S,22,8,3,3.8,0.3,3.1,0,7.2,0,4.8,0,1.2,0.2,SAMPLES 1 AND 3 BUMPED RIGHT 1FT,AE-KF
+fuels_fwd_table_big17nov,REME-THIN-06,W,10,2,0,0.2,0,1.2,0,0,0,0.3,0,0.4,0,NA,AE-KF
+fuels_fwd_table_big17nov,REME-THIN-07,E,0,0,0,0,0,0.4,0,1.1,1.2,0.8,0,0.4,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-07,N,9,1,2,2.3,4,3.2,0.8,5.4,3.2,1,0.5,1.6,0,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-07,S,2,0,2,0.3,0,0.4,0,0.4,0,1.1,0,4.3,2.1,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-07,W,35,5,0,0.8,0,4.8,0,0.4,0,0,0,3.4,2.1,NA,AB
+fuels_fwd_table_big17nov,REME-THIN-12,E,8,1,0,0.3,0,0.3,0,0.1,0,0.1,0,0.1,0,NA,"KF, AE, TH"
+fuels_fwd_table_big17nov,REME-THIN-12,N,12,0,0,3.1,2.6,1.9,3,3,2.7,2,6,0.9,0,NA,"KF, TH, AE"
+fuels_fwd_table_big17nov,REME-THIN-12,S,24,2,0,0.7,0,2.8,3,19,2.9,2.1,4.8,2,5.7,NA,"KF, AE, TH"
+fuels_fwd_table_big17nov,REME-THIN-12,W,22,2,0,0.1,0,0.2,0,1.1,0,0.6,0,0.3,0,NA,"KF, AE, TH"
+fuels_fwd_table_big17nov,REME-THIN-14,E,10,6,2,2.8,5.4,0.5,2,0.5,0,2.5,0,4.7,5.1,NA,TH
+fuels_fwd_table_big17nov,REME-THIN-14,N,5,1,1,3.8,5.2,3.1,4.9,4,7.2,0.3,0,2.4,3.5,NA,TH
+fuels_fwd_table_big17nov,REME-THIN-14,S,8,10,9,2.9,4.1,3,7,3.6,5.2,5.7,5.9,3.9,3.8,NA,TH
+fuels_fwd_table_big17nov,REME-THIN-14,W,7,3,3,0,2.6,3.2,5.7,3.3,3.3,2.6,4.8,3.8,3.1,NA,TH
+fuels_fwd_table_big17nov,REME-THIN-29,E,22,0,1,0.3,0,0.2,0,0.3,0,0.2,0,1.3,0.9,NA,AB-AE
+fuels_fwd_table_big17nov,REME-THIN-29,N,13,0,0,0.3,0,0,0,1.3,0.2,0.9,0.1,0.4,0,NA,AB-AE
+fuels_fwd_table_big17nov,REME-THIN-29,S,14,3,0,0.3,0,3.1,2.8,0.2,0.3,0.5,0,0.4,1.1,NA,AB-AE
+fuels_fwd_table_big17nov,REME-THIN-29,W,6,1,5,1.8,0,2.1,0,0.5,0,1.6,0.2,2.7,0,SAMPLE 5 BUMPED LEFT 2FT,AE-AB
+fuels_fwd_table_big17nov,REMO-PLANT-01,E,0,0,0,0,0,0,0,0,0,0.1,0,0,0,SAMPLE 3 BUMPED 2FT LEFT,KF
+fuels_fwd_table_big17nov,REMO-PLANT-01,N,3,0,0,0.3,2.4,0.3,3.6,0.9,3.1,0.3,4.8,1.6,1,"SAMPLE 4 BUMPED 2FT LEFT, SAMPLE 5 BUMPED 2FT RIGHT",KF
+fuels_fwd_table_big17nov,REMO-PLANT-01,W,0,1,0,0,0,0,0.2,0.2,0.3,0.6,0.1,0,0,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-02,E,0,0,0,0.5,0,0,0,0,0,0,0,0,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-02,N,0,2,2,0,0,2.5,0,2.6,0.5,0,0,0.5,2,Sample 2 bumped 1 ft. left.,TH
+fuels_fwd_table_big17nov,REMO-PLANT-02,S,3,1,0,0.3,0,0,0,0,0.8,0,0,0,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-02,W,0,0,0,1.1,0.2,0,0,0,0,0,0,0,0,Sample 1 bumped 1 ft. right.,TH
+fuels_fwd_table_big17nov,REMO-PLANT-04,E,18,1,1,3.4,0,1.5,0,1.9,0.3,3.1,0,0.8,0,"SAMPLE 3 BUMPED 1M RIGHT, SAMPLE 4 BUMPED LEFT 1FT",AE
+fuels_fwd_table_big17nov,REMO-PLANT-04,N,6,3,0,3,0.2,0,0,7.6,2.9,0,0,3.9,0,SAMPLE 1 BUMPED LEFT 1FT,AE
+fuels_fwd_table_big17nov,REMO-PLANT-04,S,18,1,0,3.2,0.4,1.3,0,2.6,0,1.1,0,0.8,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-04,W,21,2,2,3.4,0,1.9,0,1.1,0,0,0,9.8,0,SAMPLE 4 BUMPED LEFT 2FT,AE
+fuels_fwd_table_big17nov,REMO-PLANT-05,E,16,4,3,4.2,0,0.8,0,7.3,0,1.9,0,5.1,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-05,N,2,4,5,1.7,0.6,4.5,0,14.2,0,9.1,0,6.4,2.8,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-05,S,9,3,1,3.4,0,2.9,0.3,0.8,0,3.1,0,2.5,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-05,W,14,2,3,0.1,0.2,5.3,0,4.7,0,5.4,0,10.7,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-06,E,14,0,0,0,0,1.2,0,0.3,0,3.6,0,1.2,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-06,N,7,1,2,0.9,0,1.1,0,0.7,0,1.3,0,1.1,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-06,S,13,2,2,1.2,0,1.9,0,0.1,0,2.2,0.3,1.5,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-06,W,11,0,2,1.3,0,1.6,0,1.9,0,0.5,0,0.7,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-07,E,0,1,0,2.1,0.9,0.7,0.1,0.1,0.4,0,0,0.3,0,SAMPLE 2 BUMPED 1FT RIGH,KF
+fuels_fwd_table_big17nov,REMO-PLANT-07,N,4,2,1,0.3,0,0,0,0.2,0.1,0.4,0,0.2,0.3,SAMPL 3 BUMPED 1FT LEFT,KF
+fuels_fwd_table_big17nov,REMO-PLANT-07,S,0,0,0,0,1.9,0,1.3,0.6,0,0,0,3.1,0,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-07,W,2,6,2,0.2,0,0.4,0,0.7,0,0.4,0.1,0.1,0,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-1,S,0,0,0,0,1.9,0,1.1,0.2,0.2,0,0,0.2,0.3,SAMPLE 1 BUMPED 3FT LEFT,KF
+fuels_fwd_table_big17nov,REMO-PLANT-10,E,4,1,0,1.3,0,0.6,4,0.7,2.1,0,0,0,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-10,N,5,1,0,0,0,0.7,0,0.9,0,1.1,0,1.2,0,Sample 5 bumped 2 ft. right,TH
+fuels_fwd_table_big17nov,REMO-PLANT-10,S,16,8,2,0,0,0.6,0.2,0,0,1.2,0.4,0.2,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-10,W,12,2,0,2.8,0,1.2,1.1,0.5,0,0.6,0,3.9,0.3,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-11,E,0,1,3,0.2,0,0,0.9,1,0.1,0,0,1.1,0,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-11,N,4,0,2,0.6,0,0.4,1,0.8,1.1,0.6,1.9,2.6,0.3,SAMPLE 4 BUMPED LEFT 1FT,KF
+fuels_fwd_table_big17nov,REMO-PLANT-11,S,13,5,1,0,0.3,0,1.1,0.1,0.8,0,0,0.1,0.4,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-11,W,6,9,1,1.3,3.9,2.1,0,0.7,0.1,0,0.3,0.2,0.3,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-13,E,9,1,6,1.8,0.6,1.4,0.3,3.1,0,0.5,1.8,0.2,0.9,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-13,N,9,6,2,0.3,0,0.9,0.2,1.3,0,1.1,0.5,0.6,0.3,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-13,S,13,3,0,0.6,1.4,2.1,1.5,1.3,2.7,0.4,0,2.9,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-13,W,19,2,3,2.3,1.4,1.5,0.3,3.2,0.2,0.3,0,2.8,0.2,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-14,E,1,1,1,1.8,5.1,0.8,0,0.2,0,1.4,2.6,2.9,2.3,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-14,N,4,2,0,0.7,5.9,1.3,0.2,0.9,8.1,2.2,3.8,0.7,4.5,SAMPLE 2 BUMPED 1FT RIGHT,AE
+fuels_fwd_table_big17nov,REMO-PLANT-14,S,1,2,0,0.6,9.3,1.2,7,0.3,2.4,0.8,3.1,1.1,8.3,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-14,W,4,0,2,0.6,1.5,1.2,7.1,0.8,9.3,0.9,3.4,0.7,6.2,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-17,E,2,1,0,1.2,0.3,0.9,0.4,0.6,1.9,0,0,0.6,0,Sample 2 bumped 1 ft. right.,TH
+fuels_fwd_table_big17nov,REMO-PLANT-17,N,1,3,0,1.3,0,0,0,0.9,0,1.1,0.8,1.2,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-17,S,0,1,0,2.4,2,1.2,1.7,0.7,1.1,1.5,0.6,0.3,0.4,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-17,W,0,0,0,0.4,0,0.2,1.4,0.4,0.5,1.1,0,0,1,Sample 3 bumped 1 ft. right.,TH
+fuels_fwd_table_big17nov,REMO-PLANT-18,E,5,4,3,1.9,1.3,0,0.3,3.1,0,0.6,2.4,1,0.7,Sample 3 bumped 1 ft. left.,KF
+fuels_fwd_table_big17nov,REMO-PLANT-18,N,7,0,0,0,0.6,0,0,0,0,0.1,0.3,0.3,0.4,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-18,S,4,9,3,0.6,1.3,0,0.3,0.2,1.8,0.3,1.6,0,0.2,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-18,W,2,0,0,0.3,0,0.3,0.3,0,0.8,0.7,0.3,0,0,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-19,E,10,2,0,2.1,0,1.7,2.8,1.6,4,0.2,0,1.1,3,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-19,N,9,10,0,1,1.5,1.4,1.2,1.1,0.9,0.4,0.3,1.9,5.3,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-19,S,4,1,0,2,4.5,0,0,1.4,1.3,0.2,3.8,2.8,0.9,"SAMPLE 3 BUMPED 1FT RIGHT, SAMPEL 4 BUMPED 1FT RIGHT",TH
+fuels_fwd_table_big17nov,REMO-PLANT-19,W,17,5,2,1.6,2.1,0.3,1.2,3.2,4.1,1.3,3.1,1,0.4,SAMPLE 3 BUMPED 3FT LEFT,TH
+fuels_fwd_table_big17nov,REMO-PLANT-22,E,0,0,0,1,0.7,0.6,0.2,2.2,0.5,0.9,0,1.8,0,Sample 4 numped 1 ft. right.,AE
+fuels_fwd_table_big17nov,REMO-PLANT-22,N,4,3,3,0.3,0,5.1,0,4.3,1.6,0.5,0,21.3,0.2,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-22,S,12,2,0,3.2,0,3.9,0.2,2.7,0.5,3.8,0.3,1.2,0,"End of line in creek. 1's and 10's measured from 25 - 27 m, 100's measured from 27 - 23",AE
+fuels_fwd_table_big17nov,REMO-PLANT-22,W,7,3,4,0.7,1.6,5.9,0,0,0.3,8.2,0,0.1,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-26,E,3,0,0,0.3,0,0.6,0.5,0.3,0,0.2,0.5,0.3,0,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-26,N,28,0,0,0.6,1.1,0.7,1.3,2.6,1.1,1.1,1.2,0.4,0.3,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-26,S,9,3,2,0.3,0.2,1.2,0,0.1,0,0,0.8,0.4,0,"SAMPLE 1 BUMPED 1FT LEFT, SAMPLE 2 BUMPED LEFT 2FT, SAMPLE 4 BUMPED RIGHT 2FT, SAMPLE 5 BUMPED LEFT 1FT",KF
+fuels_fwd_table_big17nov,REMO-PLANT-26,W,3,0,0,0.4,0.7,0.4,0.9,0.2,0.3,0.9,0.3,0.8,0.3,SAMPLE 5 BUMPED RIGHT 1FT,KF
+fuels_fwd_table_big17nov,REMO-PLANT-27,E,0,1,1,0,0.1,2.8,2,1.4,0.2,1.2,1.9,1.1,2.2,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-27,N,0,4,1,3.7,4.1,0.5,1.2,2.4,1.3,0.4,2.6,1.7,3.4,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-27,S,3,0,0,1.3,0.2,0.8,2.1,1.9,1.5,3,4.1,0.6,5.4,Sample 4 bumped 2 ft. left.,TH
+fuels_fwd_table_big17nov,REMO-PLANT-27,W,6,3,0,1.1,1.4,0.6,0.3,2.6,0.2,0.5,0,1.1,1.6,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-29,E,7,2,1,0,0,0.3,9.4,4.7,0.2,3.9,0,3.4,13.1,FORGOT TO MEASURE L/D AT SAMPLE 1,AE
+fuels_fwd_table_big17nov,REMO-PLANT-29,N,17,1,1,1.9,0.2,3.2,0,2.8,0,1.7,0.2,2.1,0,SAMPLE 3 BUMPED 1FT LEFT,AE
+fuels_fwd_table_big17nov,REMO-PLANT-29,S,11,5,2,2.5,0.7,2.1,2.6,1.3,0,5.4,0,2.8,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-29,W,7,1,1,1.7,3.4,4.9,7.5,4.8,1.3,4.1,3.6,7.4,8.8,SAMPLE 5 BUMPED 1FT RIGHT,AE
+fuels_fwd_table_big17nov,REMO-PLANT-33,E,2,1,0,2.1,2.1,2.1,2.3,1.1,0.2,1.6,0,2.7,0.7,Sample 2 bumped 1 ft. right.,TH
+fuels_fwd_table_big17nov,REMO-PLANT-33,N,4,2,0,4.8,3.7,3.4,1.1,1.9,4,2.3,2,3.1,4,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-33,S,0,0,0,4.1,3.4,3.3,9,2.5,4.1,2.1,0,1.8,0,"Sample 3 bumped 2 ft. right. Sample 4 bumped 1 ft. up, 2 ft. right.",TH
+fuels_fwd_table_big17nov,REMO-PLANT-33,W,2,2,0,5.1,0,2.1,0.8,5,2.6,2.6,3.2,1.9,2.8,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-34,E,5,2,0,1.5,3.1,1.9,0.2,1.1,0.8,1.9,1.8,0,0,SAMPLE 5 BUMPED 2FT LEFT,TH
+fuels_fwd_table_big17nov,REMO-PLANT-34,N,7,2,0,0,0,0.6,0,0,0,0,0,0,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-34,S,8,2,6,5.9,1.1,1.7,0,0.9,0,2,0,0.6,4.5,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-34,W,10,6,2,0,0.1,0,0,3.1,2.8,3.2,0,0,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-37,E,4,1,0,0.1,0.3,0.1,0.2,0.3,1.1,0.4,1.8,0,0,"SAMPLE 1 BUMPED 2FT LEFT, SAMPLE 2 BUMPED 2FT RIGHT, SAMPLE 4 BUMPED 1FT RIGT",KF
+fuels_fwd_table_big17nov,REMO-PLANT-37,N,11,5,2,0.1,0,0,0,0.1,0.6,0.1,0.3,0,0.6,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-37,S,2,0,0,0.1,0.2,0,0,0.3,0.2,0.2,0.8,0,0,"SAMPLE 4 BUMPED 1FT RIGHT, SAMPLE 5 BUMPED 3FT RIGHT",KF
+fuels_fwd_table_big17nov,REMO-PLANT-37,W,1,0,0,0.1,0,0,0.6,0.1,0.3,0.2,0,0.2,0.2,"END OF FUEL LINE GOES OFF CLIFF, FWD SAMPLES TAKEN FROM 23-27",KF
+fuels_fwd_table_big17nov,REMO-PLANT-41,E,1,1,0,0,0,0.9,0,0,1,0,0,0,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-41,N,4,7,0,1.5,1.2,1.9,0.7,3.6,0.5,0.8,1.5,2.2,0,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-41,S,5,3,5,3,0.5,0,0,0.5,2.2,0,0,1.1,3.4,NA,TH
+fuels_fwd_table_big17nov,REMO-PLANT-41,W,0,0,1,0,0,0,0,0,0,0,0,2.7,0,Sample 2 bumped 1 ft. left.,TH
+fuels_fwd_table_big17nov,REMO-PLANT-42,E,24,4,1,0.3,0,0.5,0,1.9,0,1.1,0.3,0.6,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-42,N,6,1,1,0.8,0,1.2,0,0.1,0,0.7,0,0.3,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-42,S,15,1,0,1,0.7,0.3,0.8,0.6,0,0.5,0,1.2,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-42,W,5,2,2,1.6,0.4,1.3,0.8,2.1,0,1.9,0,0.7,0,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-46,E,0,0,1,0.1,0,0.1,0.2,0.1,0.4,0.1,0.8,0.1,1.9,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-46,N,15,2,5,0.3,2.3,0.7,4.8,0.2,1.1,0,0,0,0,"S2 BUMPED 1FT RIGHT, SAMPLES 4 AND 5 ARE BARE (NOT MISSING)",KF
+fuels_fwd_table_big17nov,REMO-PLANT-46,S,3,1,2,0.3,2.1,0,0,3,0.2,0,0,0.2,0,SAMPLE 3 BUMPED 2FT RIGHT,KF
+fuels_fwd_table_big17nov,REMO-PLANT-46,W,4,0,0,0,0,5.9,1.8,1.2,0.2,0.4,1.2,0.1,0.3,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-48,E,7,1,1,1.8,0,2.9,0.2,0,0.6,2.3,0,0.9,0.5,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-48,N,1,5,4,7.3,0,0.9,1.8,0.2,0,0.4,1.7,0,2.1,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-48,S,16,0,1,4.9,0,0.6,1.2,0.4,0,0.7,0,1.6,0.7,"SAMPLE 1 BUMPED RIGHT 1FT, SAMPLE 2 BUMPED LEFT 1FT",AE
+fuels_fwd_table_big17nov,REMO-PLANT-48,W,3,3,1,0.8,1.3,0.1,0,0.3,1.9,0,1.7,2,0.3,NA,AE
+fuels_fwd_table_big17nov,REMO-PLANT-50,E,10,5,0,0.6,1.3,1,0.9,0.6,0.7,0.3,0.6,0.3,0.2,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-50,N,12,1,0,0.4,0.2,0.9,2.2,0.2,0,0.1,0.3,3.6,1.7,NA,KF
+fuels_fwd_table_big17nov,REMO-PLANT-50,S,6,3,3,0.1,0,0.4,0.7,0,0.6,0.2,0.3,0,0.3,SAMPLE 4 BUMPED 1FT RIGHT,KF
+fuels_fwd_table_big17nov,REMO-PLANT-50,W,3,3,1,1.8,0.4,0.9,0,0.1,1.6,0.3,0.1,0.1,0.1,NA,KF
+fuels_fwd_table_big17nov,TEST-01,N,1,1,1,1,1,1,1,1,1,1,1,1,1,NA,NA
+fuels_fwd_table_big17nov,USGS-114,E,26,3,2,2.8,0.9,0,0,2.7,1.2,4,0.8,1.8,0,"1 AND 10 HRS TAKEN AT 13-11M; 100 HR TAKEN AT 13-10M, 8-7M; LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M; SAMPLE 5 BUMPED 1FT RIGHT",AB
+fuels_fwd_table_big17nov,USGS-114,N,19,6,1,0,0,0.4,0,0.4,0,2.8,1.6,3.2,0,"1 AND 10 HRS TAKEN AT 13-11M; 100 HR TAKEN AT 13-10M, 8-7M; LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M",AB
+fuels_fwd_table_big17nov,USGS-114,S,25,3,2,4,1.3,0,0,3.7,1.4,0.4,0,1.1,0,"1 AND 10 HR TAKEN AT 17-19M; 100 HR TAKEN AT 17-19M, 22-23M; LITT AND DUFF SAMPLES TAKEN AT 17.5M, 18.5M, 20.5M, 22.5M, 24.5M",AB
+fuels_fwd_table_big17nov,USGS-114,W,12,8,0,0.4,0,4.8,4.2,5.2,4.1,0.8,0,0.4,0,"1 AND 10 HR TAKEN AT 17-19M; 100 HR TAKEN AT 17-19M, 22-23M; LITT AND DUFF SAMPLES TAKEN AT 17.5M, 18.5M, 20.5M, 22.5M, 24.5M",AB
+fuels_fwd_table_big17nov,USGS-122,E,2,1,0,2.9,0,0.5,7,0.9,5.4,1.6,3.8,1.9,2.1,"1 AND 10 HR TAKEN AT 13-11M; 100 HR TAKEN AT 13-10M, 8-7M; LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M",TH
+fuels_fwd_table_big17nov,USGS-122,N,3,5,0,3.6,1.7,2,3.5,1.7,6.3,8,4.3,2.9,1.7,"1 AND 10 HRS TAKEN AT 13-11M; 100 HR TAKEN AT 13-10M, 8-7M; LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M",TH
+fuels_fwd_table_big17nov,USGS-122,S,6,6,0,2.6,5.3,3.1,1.5,4.5,2,2.9,2.7,1.6,3.1,"1 AND 10 HR TAKEN AT 17-19M; 100 HR TAKEN AT 17-19M, 22-23M; LITT AND DUFF SAMPLES TAKEN AT 17.5M, 18.5M, 20.5M, 22.5M, 24.5M; SAMPLE 1 BUMPED RIGHT 5FT, SAMPLE 2 RIGHT 2FT",TH
+fuels_fwd_table_big17nov,USGS-122,W,4,2,0,3,3.7,2.8,0,2.3,5.1,2.7,5.2,5.4,3.7,"1 AND 10 HR TAKEN AT 17-19M; 100 HR TAKEN AT 17-19M, 22-23M; LITT AND DUFF SAMPLES TAKEN AT 17.5M, 18.5M, 20.5M, 22.5M, 24.5M; SAMPLE 2 BUMPED LEFT 1FT",TH
+fuels_fwd_table_big17nov,USGS-409003,E,6,0,1,1.6,5.3,0.5,0,0.8,0.2,1.9,0,2.1,0,"1 AND 10 HRS TAKEN AT 13-11M; 100 HR TAKEN AT 13-10M, 8-7M; LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M",ALL
+fuels_fwd_table_big17nov,USGS-409003,N,30,2,0,1.9,0.2,13.3,2.6,6.2,0,0.8,0,1.4,0,"1 AND 10 HRS TAKEN AT 13-11M; 100 HR TAKEN AT 13-10M, 8-7M; LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M; SAMPLE 1 BUMPED RIGHT 3FT, SAMPLE 2 BUMPED 1FT",ALL
+fuels_fwd_table_big17nov,USGS-409003,S,7,2,0,0.9,0,1.1,0,1.9,1.2,2.5,0.2,1.7,0.4,"1 AND 10 HR TAKEN AT 17-19M; 100 HR TAKEN AT 17-19M, 22-23M; LITT AND DUFF SAMPLES TAKEN AT 17.5M, 18.5M, 20.5M, 22.5M, 24.5M; SAMPLE 1 BUMPED LEFT 4FT, SAMPLE 2 BUMPED LEFT 4FT",ALL
+fuels_fwd_table_big17nov,USGS-409003,W,14,6,3,0,3,2.7,6,3.8,2.7,2.6,4.1,0,0,"1 AND 10 HR TAKEN AT 17-19M; 100 HR TAKEN AT 17-19M, 22-23M; LITT AND DUFF SAMPLES TAKEN AT 17.5M, 18.5M, 20.5M, 22.5M, 24.5M; SAMPLE 1 BUMPED RIGHT 3FT",ALL
+fuels_fwd_table_lil11nov,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+fuels_fwd_table_lil11nov,ATWE-THIN-10,E,22,13,0,5.4,3.8,5.7,4.8,9.1,6.8,8.3,5.5,7.3,8.5,NA,ADAM
+fuels_fwd_table_lil11nov,ATWE-THIN-10,N,1,3,2,12.4,8.2,8.7,6.9,7.6,10.4,4.8,3.7,5.4,5.7,NA,ADAM
+fuels_fwd_table_lil11nov,ATWE-THIN-10,S,6,2,2,4.6,6.2,11.3,12.8,7.9,6.8,3.8,9.7,5.2,17.5,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-10,W,9,2,0,7.6,5.3,3.1,6.1,4.7,8.2,3.4,16.4,2.7,8.3,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-11,E,5,1,2,3.1,2.9,1.8,7,1.8,1,3.4,4,3.9,2,"SAMPEL 2 BUMPED 5FT RIGHT, SAMPLE 3 BUMPED 2FT RIGHT",KF
+fuels_fwd_table_lil11nov,ATWE-THIN-11,N,0,3,0,6.9,13.8,4.7,3,6.8,10.6,3.1,1.5,1,8.4,"END OF LINE ON SEGI, SLIGHTLY UNEVEN WITH AZIMUTH AND VERY LITTLE FWD. SAMPLE 1 BUMPED 1FT RIGHT.",KF
+fuels_fwd_table_lil11nov,ATWE-THIN-11,S,14,3,1,2.2,2.3,0.7,4.8,3.5,8.1,2.9,9.7,2.9,2.2,"END OF LINE ON SEGI, COULDN'T EXTEND LINE ALL THE WAY. MEASURED 1S AND 10S FROM 25-27M AND MEASURED 100S FROM 23-27M. SAMPLE 3 BUMPED 1FT RIGHT.",KF
+fuels_fwd_table_lil11nov,ATWE-THIN-11,W,32,5,0,2.2,4.2,2.9,6.1,2,3.2,3.1,11.4,3.6,14.5,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-13,E,2,0,1,15.2,1.4,4.3,2.1,5.6,8.1,7.6,6,8.7,4.4,"SAMPLE 4 BUMPED 2FT LEFT, SAMPLE 5 BUMPED 4FT LEFT",AE
+fuels_fwd_table_lil11nov,ATWE-THIN-13,N,16,4,4,4.2,5.7,13.5,5.8,9.3,4.4,4.1,5.6,6.2,4.9,NA,AE
+fuels_fwd_table_lil11nov,ATWE-THIN-13,S,3,1,0,6.8,7.9,10.3,5.5,7.1,5.8,8.6,3.7,3.2,5.6,"SAMPLE 1 BUMPED 2FT RIGHT, SAMPLE 4 BUMPED 1FT LEFT",AE
+fuels_fwd_table_lil11nov,ATWE-THIN-13,W,22,7,0,8.2,3.7,6.8,6.9,1.5,6.2,0.6,2.1,9.5,6.3,NA,AE
+fuels_fwd_table_lil11nov,ATWE-THIN-15,E,29,4,0,8.1,5.1,1.1,8.1,0,0,0.3,0.1,0,0.5,NA,"AE, KF"
+fuels_fwd_table_lil11nov,ATWE-THIN-15,N,45,2,0,0.4,3.2,2,0.3,1.3,6.8,4.5,8.7,4.1,6.9,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-15,S,0,0,0,1.8,6.2,7.1,8.9,1.1,4.2,1,3.5,4.4,19.9,SAMPLE 5 BUMPED 2FT LEFT. SAMPLE 5 HAD 47.6 DUFF (SAMPLE TAKEN IN BEDROCK RAVINE WHERE LITT COLLECTS),KF
+fuels_fwd_table_lil11nov,ATWE-THIN-15,W,15,1,2,1.7,0,0.2,0,2,0.2,0.3,0,0,0.8,NA,"KF, AE"
+fuels_fwd_table_lil11nov,ATWE-THIN-18,E,34,0,0,2.5,4.5,0.2,0,0.4,0,6.5,0,1,3.4,SAMPLE 5 BUMPED 1 FT RIGHT. SAMPLE 3 BUMPED 2 FT RIGHT. SAMPLE 2 BUMPED 3 FT LEFT.,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-18,N,12,9,1,3.7,7.1,3.6,5.1,0,0,2.5,7.5,5.3,8.9,SAMPLES 1 AND 4 BUMPED 1 FT RIGHT.,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-18,S,11,5,0,2.3,0,1.7,2.1,2.9,0.2,2.8,1.9,2.4,2,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-18,W,2,1,0,3.5,3,5.4,8,3.8,11,2.1,3.8,0.5,1.8,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-19,E,3,0,1,0.5,0.8,3,0.2,0.1,0.4,2.2,7.1,0.9,2.9,SAMPLE 1 BUMPED 2FT LEFT,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-19,N,11,0,0,2.8,0,0,6.7,3.1,3.3,1,0.7,2.9,2.7,SAMPLE 5 BUMPED 1FT RIGHT,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-19,S,19,2,1,0.6,4.5,0.9,1.1,3.8,6.9,0.3,1.2,0.4,3.8,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-19,W,54,6,6,2.9,4.7,3.7,4.9,3.7,0.2,1.8,3,3.5,3.7,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-29,E,26,3,3,2.9,6.6,3.7,2.6,3.4,3.8,6.2,7.9,3.8,3.3,SAMPLE 4 BUMPED 2FT LEFT,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-29,N,1,1,1,5.6,8.6,1,2.6,6.5,8.8,3.8,4,0.7,8,SAMPLE 2 BUMPED 1FT LEFT,AW (ADAM)
+fuels_fwd_table_lil11nov,ATWE-THIN-29,S,14,10,7,5,10,0.3,10.2,4.1,14.4,8.2,18.5,3.9,17.1,SAMPLE 5 BUMPED 3FT LEFT,AW (ADAM)
+fuels_fwd_table_lil11nov,ATWE-THIN-29,W,33,16,3,2.1,10.3,6.3,13.1,4.5,6.9,4.8,7.6,4,6,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-31,E,15,1,2,3.5,14.8,3,7.5,1.2,10,3,5,4.5,6.4,NA,TH
+fuels_fwd_table_lil11nov,ATWE-THIN-31,N,1,3,1,6,10.5,3.6,7.4,3.5,8.6,3.6,10,2.9,0,SAMPLE 4 BUMPED 1 FT RIGHT,TH
+fuels_fwd_table_lil11nov,ATWE-THIN-31,S,7,2,0,1.7,3.6,5.9,9,3.3,4.9,1.9,0,8.9,9.1,NA,TH
+fuels_fwd_table_lil11nov,ATWE-THIN-31,W,22,5,5,3.1,17.4,4.5,12.5,4.9,7,2.3,19.1,0.5,6.8,SAMPLE 2 BUMPED 1 FT LEFT. SAMPLE 4 BUMPED 1 FT RIGHT.,TH
+fuels_fwd_table_lil11nov,ATWE-THIN-37,E,12,0,0,0,0,0,0,0.3,3.5,4.3,2.1,2.8,0,NA,"AE, AW (ADAM)"
+fuels_fwd_table_lil11nov,ATWE-THIN-37,N,26,13,6,3.6,0,1,0,0.8,0,1.5,0,0,0,NA,AW (ADAM)
+fuels_fwd_table_lil11nov,ATWE-THIN-37,S,12,0,0,3.5,0,4.2,0,4.3,1.2,0,0,3.7,0,SAMPLE 5 BUMPED 1FT,AW (ADAM)
+fuels_fwd_table_lil11nov,ATWE-THIN-37,W,26,13,6,0,0,0.4,0,0,0,0,0,2.1,0,NA,"AE, AW (ADAM)"
+fuels_fwd_table_lil11nov,ATWE-THIN-40,E,30,0,2,0.9,1.3,1,1.2,1.2,0.9,1.2,2.2,0,0,MISSING SAMPLE 5,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-40,N,9,2,0,0,8.4,0.9,3,0.4,2.3,2.6,4.6,2.9,2.8,NA,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-40,S,48,3,9,2.6,0.9,1.3,1,3.4,1.9,2.4,14.8,4.6,7.3,SAMPLE 4 BUMPED UP ONE FOOT,KF
+fuels_fwd_table_lil11nov,ATWE-THIN-40,W,15,0,2,2.7,3,0.6,1.3,0.2,2,0,0,0.2,0.3,NA,KF
+fuels_fwd_table_lil11nov,EAFR-PILE-03,E,8,2,1,0.3,0,3.3,0,0,0,2.1,0.3,6.9,0,NA,ALL
+fuels_fwd_table_lil11nov,EAFR-RX-04,E,13,11,7,4.3,2.1,5.5,4.7,2.4,3.9,5.1,2.6,3.2,1.6,NA,AE
+fuels_fwd_table_lil11nov,EAFR-RX-04,N,14,10,2,2.8,5.9,0.7,3.8,0.8,0.1,0.5,0.2,0.4,0.3,NA,KF
+fuels_fwd_table_lil11nov,EAFR-RX-04,S,17,0,5,4.2,0,3.1,2.3,1.7,4.1,2.6,0.1,1.9,0,SAMPLE 2 BUMPED 1FT RIGHT,KF
+fuels_fwd_table_lil11nov,EAFR-RX-04,W,46,28,5,4.8,0.5,2.1,1.6,6.2,1.5,3.4,3.1,1.2,1.6,"Sample 4 bumped right 1ft, Sample 5 bumped left 1ft",AE
+fuels_fwd_table_lil11nov,EAFR-RX-05,E,21,8,8,7.7,0.3,10.6,7.5,1.1,2.3,3.4,3,1.9,2.7,"SAMPLE 1 BUMPED RIGHT 1FT, SAMPLE 3 BUMPED LEFT 2FT",AE
+fuels_fwd_table_lil11nov,EAFR-RX-05,N,13,5,1,1.1,2.8,0.3,0,1.5,3.2,1.1,2.7,0.8,4.9,NA,AE
+fuels_fwd_table_lil11nov,EAFR-RX-05,S,1,0,0,3.6,8.1,2.7,4.2,1.6,1.1,1.2,1.6,0.4,0.1,"SAMPLE 3 BUMPED 3FT RIGHT, SAMPLE 4 BUMPED 1FT RIGHT, SAMPLE 5 BUMPED 3FT LEFT",KF
+fuels_fwd_table_lil11nov,EAFR-RX-05,W,117,17,6,0.6,0,0.2,0,0.3,1.2,0.2,0.8,0.8,2.9,SAMPLE 4 BUMPED 2FT LEFT,KF
+fuels_fwd_table_lil11nov,EAFR-RX-06,E,29,6,3,0.2,0,0.2,0,3.8,0,4.4,0,2.8,0,NA,AB_AE
+fuels_fwd_table_lil11nov,EAFR-RX-06,N,83,19,0,2.3,0,0,0.9,0.4,0,1.3,0,1.9,0,NA,AB_AE
+fuels_fwd_table_lil11nov,EAFR-RX-06,S,14,2,4,5.4,0,3.2,0,6.5,0,2.2,0,2.5,0,"17.5 BUMPED 1FT LEFT, 19.5 BUMPED 2FT RIGHT, 21.5 BUMPED 1FT LEFT",AB_AE
+fuels_fwd_table_lil11nov,EAFR-RX-06,W,107,8,2,2.2,0,3.4,0,2.3,0,2.5,0,3.2,0,"SAMPLE 2 BUMPED RIGHT 1FT, SAMPLE 3 BUMPED RIGHT 1FT",AB_AE
+fuels_fwd_table_lil11nov,EAFR-RX-09,E,98,7,0,2.6,3.8,3.5,3.7,7.6,10,5.1,3.9,10.3,3.4,"SAMPLE 3 BUMPED 1FT RIGHT, SAMPLE 5 BUMPED 1FT RIGHT",AE
+fuels_fwd_table_lil11nov,EAFR-RX-09,N,77,7,4,2.1,2.9,1,0.3,0.3,6,0.3,2.6,1.1,3.1,"SAMPLE 1 BUMPED 1FT LEFT, SAMPLE 2 BUMPED 1FT RIGHT, SAMPLE 3 BUMPED 1FT RIGHT, SAMPLE 4 BUMPED 2FT RIGHT",KF
+fuels_fwd_table_lil11nov,EAFR-RX-09,S,29,5,3,1.8,7.2,1,11,3,0.8,3.2,5,3.1,6.1,SAMPLE 2 BUMPED 1FT RIGHT,KF
+fuels_fwd_table_lil11nov,EAFR-RX-09,W,44,8,1,3.3,3.7,11.2,7.9,2.2,1.4,7.1,0.2,5.2,6.8,SAMPLE 1 BUMPED 2FT LEFT,AE
+fuels_fwd_table_lil11nov,EAFR-RX-12,E,39,9,4,3.1,7,4.8,2.6,4.1,5,3.2,4,4.5,3.2,NA,AB_AE
+fuels_fwd_table_lil11nov,EAFR-RX-12,N,43,6,5,3.4,1.8,10.2,8.5,3.1,0,8.2,9.4,2.8,3.2,"SAMPLE 3 BUMPED RIGHT 3FT, SAMPLE 2 BUMPED TO 5.8",AB_AE
+fuels_fwd_table_lil11nov,EAFR-RX-12,S,57,12,5,9.8,5.8,9.9,8,8.2,2.8,10.1,5.6,26.3,9.5,"Sample 4 bumped right 2 ft. Sample 5 bumped down 1 ft, left 5 ft.",TH
+fuels_fwd_table_lil11nov,EAFR-RX-12,W,18,8,1,10,2.8,6.4,1,8,9.1,6.6,5.3,8.9,2.1,Sample 3 bumped left 2 ft. Sample 4 bumped 5 ft to right.,TH
+fuels_fwd_table_lil11nov,EAFR-RX-15,E,20,0,1,0.2,0,4.6,0,1.5,0,2.8,3.4,0.8,0,SAMPLE 4 BUMPED RIGHT 2FT,AE
+fuels_fwd_table_lil11nov,EAFR-RX-15,N,40,0,0,2.1,0,3.5,1.9,0.7,0.6,4.1,0,0.2,0,NA,AE-KF
+fuels_fwd_table_lil11nov,EAFR-RX-15,S,6,4,0,1.3,0,3.2,2.4,1.9,2.5,3.3,1.8,4.9,2.1,SAMPLE 1 BUMPED RIGHT 2FT,AE
+fuels_fwd_table_lil11nov,EAFR-RX-15,W,24,0,0,2,3.1,0.3,0,1.3,0,0.4,5.3,0.3,1.4,NA,AE-KF
+fuels_fwd_table_lil11nov,EAFR-RX-16,N,65,15,4,3.7,2.3,2.1,1.1,5.8,0,4,2.1,3.2,0.1,SAMPLE 4 BUMPED 2FT LEFT,KF
+fuels_fwd_table_lil11nov,EAFR-RX-16,S,129,27,10,3.2,0.2,5.9,6,3.1,11,13.6,1.2,8.2,4.1,SAMPLE 5 BUMPED 5FT RIGHT,KF
+fuels_fwd_table_lil11nov,EAFR-RX-18,E,8,0,0,1.8,6.2,8.2,9.9,1.3,8.1,4.3,3.2,2.3,9.4,SAMPLE 1 BUMPED 1FT RIGHT,KF
+fuels_fwd_table_lil11nov,EAFR-RX-18,N,38,4,2,2.4,11.7,6.1,2.9,2.8,7.3,4.1,4.6,3.8,5,NA,AE
+fuels_fwd_table_lil11nov,EAFR-RX-18,S,97,9,1,2.2,7.9,3.3,5.4,6.3,9.5,2.6,7.1,4.2,6.4,NA,KF
+fuels_fwd_table_lil11nov,EAFR-RX-18,W,7,0,0,10.2,6,2.5,11,2,11,3.3,8.1,4.2,17.5,NA,KF
+fuels_fwd_table_lil11nov,EAFR-RX-21,E,27,2,1,1.1,5.4,1.1,1.4,0.9,0.4,0.4,1.3,2.1,7.2,NA,KF
+fuels_fwd_table_lil11nov,EAFR-RX-21,N,23,10,0,0,5.2,3.9,3.6,5.4,3.8,9.6,5.3,0.5,6.6,NA,TH
+fuels_fwd_table_lil11nov,EAFR-RX-21,S,24,7,6,2.8,3.4,3.1,5.3,6,5.7,6.5,2.1,3.6,2.9,SAMPLE 2 BUMPED 1FT RIGHT,TH
+fuels_fwd_table_lil11nov,EAFR-RX-21,W,6,0,2,5.9,1.1,0.2,0,2.5,3.1,6.3,7.1,0.2,1.8,NA,KF
+fuels_fwd_table_lil11nov,EAFR-RX-23,E,74,7,5,1.1,0.5,0.4,5.1,1.9,4.3,5.9,4,4.9,5.8,NA,ALL
+fuels_fwd_table_lil11nov,EAFR-RX-23,N,12,1,0,1.8,2.1,1.4,6,0.2,1.4,1.2,1,0.2,13,NA,ALL
+fuels_fwd_table_lil11nov,EAFR-RX-23,S,17,0,0,1.2,1.1,1.2,4.1,3.6,1,12.4,0.4,0.3,5.9,NA,ALL
+fuels_fwd_table_lil11nov,EAFR-RX-23,W,22,11,4,0.2,0.1,0.1,1.6,0.3,0.2,3.5,0,1.3,0,NA,ALL
+fuels_fwd_table_lil11nov,EAFR-RX-26,E,23,3,2,2.1,10.1,11.8,3.6,2.6,3.8,8.9,9.1,7.7,9.5,"SAMPLE 3 BUMPED LEFT 3FT, SAMPLE 5 BUMPED LEFT 2FT",AE-TH
+fuels_fwd_table_lil11nov,EAFR-RX-26,N,38,15,5,0.5,0.2,9.1,0.3,6.5,0.2,4.2,0.2,1.6,0,Sample 2 bumped right 1 ft,AE
+fuels_fwd_table_lil11nov,EAFR-RX-26,S,43,0,1,1.4,0.5,2,0,5.9,4.1,1.3,0.2,2.4,0,NA,AE
+fuels_fwd_table_lil11nov,EAFR-RX-26,W,25,6,8,1.7,3.4,0,4.6,1.8,4.2,1.1,3.4,7.2,7.7,Sample 1 bumped left 3 ft. Sample 3 bumped left 1 ft.,TH
+fuels_fwd_table_lil11nov,EAFR-RX-29,E,7,1,2,0.3,9.8,0.4,15.3,2.9,8.1,1,2.3,0.4,0.2,NA,AE-KF
+fuels_fwd_table_lil11nov,EAFR-RX-29,N,14,9,2,0.2,0.1,0.2,1.2,1.1,3.8,0.8,13.2,6.2,4.9,NA,AE-KF
+fuels_fwd_table_lil11nov,EAFR-RX-29,S,27,9,2,8.6,3.3,0.9,0,3.5,2.8,8.2,9.1,6.3,5.7,SAMPLE 5 BUMPED RIGHT 1FT,AE
+fuels_fwd_table_lil11nov,EAFR-RX-29,W,14,7,1,2.4,8.1,0.9,2.2,3.1,4.6,2.8,8.5,9.1,4.3,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-01,E,12,1,0,2.3,0,0.7,0.4,0.8,1.6,1.9,0,3.4,0.7,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-01,N,14,1,0,2.4,3.2,0.9,3.3,0.3,6.2,0.4,4.6,0.2,5.4,NA,KF
+fuels_fwd_table_lil11nov,GRGR-RX-01,S,9,2,1,0.2,1.1,0.2,0.4,0.2,2.3,0.2,1,0.3,1.9,SAMPLE 3 BUMPED 1FT LEFT,KF
+fuels_fwd_table_lil11nov,GRGR-RX-01,W,15,7,0,1.8,0,1,0.3,0.9,2.4,0.8,1.2,0.2,3.1,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-02,E,2,4,0,0.4,0,0.1,0,0.2,0,0,0,0,0,SAMPLE 3 BUMPED LEFT 1FT,AE_KF
+fuels_fwd_table_lil11nov,GRGR-RX-02,N,11,1,1,1.4,1.8,0.2,1.7,4.2,0.5,4.9,0,7.2,0.9,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-02,S,47,4,0,2.9,3.1,0.9,0.2,1.3,2.7,0.4,0,1.1,4.8,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-02,W,24,2,0,0.3,4.9,2.9,6.2,0.2,5.3,1,5.8,0.6,3.9,"PILE ON SW LINE, SAMPLE 4 BUMPED LEFT 3FT",AE_KF
+fuels_fwd_table_lil11nov,GRGR-RX-03,E,4,1,0,2.6,8.1,7.7,0,0.3,5,0.8,4.2,1.4,3.6,Sample 5 bumped 1 ft. right,KF
+fuels_fwd_table_lil11nov,GRGR-RX-03,N,10,2,1,2.1,3.9,4.1,5.1,5.3,1.9,0.5,2.4,0.9,1.2,Sample 2 bumped 1 ft. left,TH
+fuels_fwd_table_lil11nov,GRGR-RX-03,S,21,5,0,1.3,0.5,1.1,0.7,3.8,2,0.8,1.1,0.9,0.5,"Sample 1 bumped 4 ft. down, 4 ft. right. Sample 2 bumped 3 ft. left.",TH
+fuels_fwd_table_lil11nov,GRGR-RX-03,W,46,5,2,0,0,0.4,6.2,3.1,1.4,0,0,1.3,0,NA,KF
+fuels_fwd_table_lil11nov,GRGR-RX-04,E,12,7,3,1.8,3.2,5.5,3.2,2.8,3.3,1.7,0,1.2,2.4,SAMPLE 2 BUMPED RIGHT 10CM,AE_BB
+fuels_fwd_table_lil11nov,GRGR-RX-04,N,30,2,1,0.8,0,1.2,0,0.8,0,0.7,0,1.9,0,SAMPLE 6 BUMPED RIGHT 1FT,AE
+fuels_fwd_table_lil11nov,GRGR-RX-04,S,11,2,1,2.9,0.7,2,2.5,3.2,2.9,0.9,1.1,0.7,0,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-05,E,31,0,0,4.2,3.5,8.3,2.1,13.5,1.6,2.6,1.4,2.3,1.7,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-05,N,6,3,0,0.3,6.1,5.9,2.1,4.8,1.9,0.8,6.2,1.1,0.7,SAMPLE 1 BUMPED 2FT LEFT,KF
+fuels_fwd_table_lil11nov,GRGR-RX-05,S,10,2,0,0.9,8.3,0.3,0,0.8,1.1,0.9,2.8,3.2,1.8,SAMPLE 5 BUMPED 2FT RIGHT,KF
+fuels_fwd_table_lil11nov,GRGR-RX-05,W,43,1,0,1.3,2,4.1,3.3,1.8,0,4.3,3.5,1.4,0.9,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-07,E,11,6,0,1,2.1,5,1.7,5.5,2.1,13.8,1.1,9.7,2.3,NA,BB
+fuels_fwd_table_lil11nov,GRGR-RX-07,N,24,15,5,1.9,3,2.3,2.4,4.7,4.2,6.1,6.7,1.1,1.9,Sample 3 bumped 2 ft. right. Sample 5 bumped 1 ft. left.,TH
+fuels_fwd_table_lil11nov,GRGR-RX-07,S,6,8,0,3.7,1,4.8,3.7,5.2,2.9,2.4,2.1,1.9,1.8,NA,TH
+fuels_fwd_table_lil11nov,GRGR-RX-07,W,11,19,3,5.4,2.6,17,1.2,16,0.8,8,1.2,12,0.2,NA,BB
+fuels_fwd_table_lil11nov,GRGR-RX-08,E,4,2,0,4.2,2.7,1,2.1,0.3,1.9,1.8,1.3,0,0,Sample 5 bumped 3 ft. right.,TH
+fuels_fwd_table_lil11nov,GRGR-RX-08,N,28,10,2,0,0.6,0.3,7.1,0,0,0.3,0.1,1.2,3.3,NA,KF
+fuels_fwd_table_lil11nov,GRGR-RX-08,S,0,0,6,0.2,1.3,0.7,0.2,0.1,0,0,0,0.3,0.8,Sample 3 bumped 1 ft. left.,KF
+fuels_fwd_table_lil11nov,GRGR-RX-08,W,26,4,3,1.7,1.9,0,1.1,4.2,0.7,1.2,2.9,4.9,4.2,NA,TH
+fuels_fwd_table_lil11nov,GRGR-RX-10,E,13,2,0,1,0.1,3,8,2.4,1.2,1.9,3.2,8.7,7.2,NA,KF
+fuels_fwd_table_lil11nov,GRGR-RX-10,N,21,7,1,2.8,0.3,8.6,3.1,6.3,2.4,7.2,12.5,3.8,0,SAMPLE 5 BUMPED 1FT RIGHT,AE
+fuels_fwd_table_lil11nov,GRGR-RX-10,S,39,5,2,2.7,0.2,5.6,0,6.3,3.5,3.3,4,2.9,0,NA,AE
+fuels_fwd_table_lil11nov,GRGR-RX-10,W,9,3,0,0.4,6.2,3.2,2.6,0.9,5.1,2.1,6.1,0.3,7.2,NA,KF
+fuels_fwd_table_lil11nov,GRGR-RX-W,W,0,1,0,5,1.6,2.2,1.8,1.1,2.4,3.3,0.2,2.5,0.5,PLOTID IS GRGR-RX-04,AE_BB
+fuels_fwd_table_lil11nov,SECR-PILE-02,E,36,2,6,5.8,2.6,3.5,2.2,3.2,1.6,6.4,0,4.2,1.8,NA,TH
+fuels_fwd_table_lil11nov,SECR-PILE-02,N,51,1,3,0,0,0.2,0,0,0,2.1,0,0.8,1.1,NA,KF
+fuels_fwd_table_lil11nov,SECR-PILE-02,S,55,1,7,0.4,0.7,0.8,3.6,7.1,1.9,1.9,0.1,2.3,2.2,NA,KF
+fuels_fwd_table_lil11nov,SECR-PILE-02,W,41,0,5,4,3.8,4.7,1.5,1.1,0,0,0,1.9,0,NA,TH
+fuels_fwd_table_lil11nov,SECR-PILE-03,N,47,3,4,1.3,0.8,0.1,0,0.2,0,4.3,0,1.2,0.2,NA,ALL
+fuels_fwd_table_lil11nov,SECR-PILE-03,S,26,3,3,2.3,0.6,1.9,0,3.8,0,1,5.7,1.8,0.4,NA,ALL
+fuels_fwd_table_lil11nov,SECR-PILE-03,W,62,27,0,5.5,2.5,4.9,2.8,4.9,5.7,3.5,0,3.5,4.4,NA,ALL
+fuels_fwd_table_lil11nov,SECR-PILE-04,E,24,7,1,5.3,2.1,4.4,1.9,1.8,0,1.5,0,2.3,1.4,"SAMPLE 1 BUMPED UP TO 3.3M, SAMPLE 3 BUMPED LEFT 5FT, SAMPLE 4 BUMPED LEFT 5 FT",AE
+fuels_fwd_table_lil11nov,SECR-PILE-04,N,43,5,0,4.5,2,5.2,2.6,5.4,0,1.8,2.3,1.4,1.2,NA,AB
+fuels_fwd_table_lil11nov,SECR-PILE-04,S,25,6,3,2.7,0,1.4,0,1.6,0,1.9,0,2.1,0,NA,AB
+fuels_fwd_table_lil11nov,SECR-PILE-04,W,20,4,1,1.3,0,0.5,0,0.9,0,0.2,0,3.1,2.8,NA,AE
+fuels_fwd_table_lil11nov,SECR-THIN-01,E,24,3,2,2,0.2,0.1,0,0.2,0,0.3,0,0.1,0.4,NA,KF
+fuels_fwd_table_lil11nov,SECR-THIN-01,N,16,0,15,2.2,2.1,6.3,5,3.4,2.1,7.2,3.8,2.3,0,NA,TH_AB
+fuels_fwd_table_lil11nov,SECR-THIN-01,S,25,3,2,3.4,2.3,3.2,1.3,0.6,0,3.4,3,0.4,0,"SAMPLE 3 BUMPED 3FT RIGHT, SAMPLE 4 BUMPED 4FT RIGHT",TH_AB
+fuels_fwd_table_lil11nov,SECR-THIN-01,W,35,4,2,1.8,0,3.7,0,1.9,2.8,2.9,3.1,1.8,0,NA,ALL
+fuels_fwd_table_lil11nov,SECR-THIN-03,E,17,2,0,6,0.6,2.4,1.2,2.2,0.9,3.8,0,4.8,0,SAMPLE 3 AND 4 BOTH BUMPED LEFT 4FT - PILE ON TRANSECT,AE_KF
+fuels_fwd_table_lil11nov,SECR-THIN-03,N,5,4,0,2.1,0,0,0,1.3,0,0.3,0.1,1.6,0.1,"ALL SAMPLES ON ROCK - MEASURED DIRT ON ROCK (ROCK CONTINUES 10FT TO EITHER SIDE), SAMPLE 3 BUMPED LEFT 1FT",AE_KF
+fuels_fwd_table_lil11nov,SECR-THIN-03,S,10,3,9,4,5.5,6.4,3.5,7.9,3.8,0,8,1.1,3,"SAMPLE 2 BUMPED RIGHT 5FT, SAMPLE 3 BUMPED UP 5FT AND RIGHT 3FT, SAMPLE 4 BUMPED DOWN 5FT AND LEFT 5FT",AE_TH
+fuels_fwd_table_lil11nov,SECR-THIN-03,W,99,6,2,0.3,0,1.8,0.2,2.9,0,3.6,0,2.9,0,"SAMPLE 1 BUMPED UP 2FT, SAMPLE 2 BUMPED LEFT 1FT, SAMPLE 4 BUMPED LEFT 1FT, SAMPLE 5 BUMPED LEFT 1FT",AE_KF
+fuels_fwd_table_lil11nov,SECR-THIN-04,E,25,1,2,0.2,0,0,0,0.3,0,4.1,0,0.3,0,SAMPLE 1 AND 2 BOTH BUMPED LEFT 2FT,AE_KF
+fuels_fwd_table_lil11nov,SECR-THIN-04,N,13,9,4,0.6,0,4.3,1.1,2.1,0,5.4,0,10.1,3.2,"Sample 2 bumped 4ft left, sample 3 bumped 3ft left",AB_KF
+fuels_fwd_table_lil11nov,SECR-THIN-04,S,27,3,3,6.2,0.4,3.4,3.2,4.3,0.9,0,0,0.4,0,"Sample 3 bumped 3ft right, sample 5 bumped 1ft left",AB_KF
+fuels_fwd_table_lil11nov,SECR-THIN-04,W,23,8,1,0.7,0,0,0,0.1,0,0.2,0,0,0,"SAMPLE 1 BUMPED LEFT 1FT, SAMPLE 5 BUMPED RIGHT 1FT",AE_KF
+fuels_fwd_table_lil11nov,TEST,TEST,99,99,99,9,9,9,9,9,9,9,9,9,9,NA,TEST
+fuels_fwd_table_lil17nov,REME-THIN-10,E,11,1,0,2.1,0,0.4,1.3,0.1,0,0.2,0.4,0.3,1.9,NA,AE
+fuels_fwd_table_lil17nov,REME-THIN-10,N,63,7,1,1.9,0.2,0.7,0.3,0.8,0,1.1,1.5,1.9,1.4,NA,AE
+fuels_fwd_table_lil17nov,REME-THIN-10,S,10,0,0,0.6,0,0.3,0,0.1,0,1.2,0.8,2.5,0.4,NA,AE
+fuels_fwd_table_lil17nov,REME-THIN-10,W,11,4,1,1.2,0,0.4,0.8,1.1,0.9,1.4,0.1,0.9,0,NA,AE
+fuels_fwd_table_lil17nov,REME-THIN-11,E,15,1,0,2.8,0,1.9,0,1.3,0.2,4.1,0.4,0.2,0.3,NA,AE
+fuels_fwd_table_lil17nov,REME-THIN-11,N,16,1,0,5.2,4.3,2.5,0.4,0.5,0,2.9,0.2,1.4,0.6,NA,AE
+fuels_fwd_table_lil17nov,REME-THIN-11,S,4,0,0,0,0,5.1,2.9,1.8,0,0.2,0,0.1,0,SAMPLE 1 BUMPED LEFT 1FT,AE
+fuels_fwd_table_lil17nov,REME-THIN-11,W,9,1,1,0.2,0,0.9,0,0,0,0,0,0.3,0,NA,AE
+fuels_fwd_table_lil17nov,REME-THIN-14,E,10,6,2,2.8,5.4,0.5,2,0.5,0,2.5,0,4.7,5.1,NA,TH
+fuels_fwd_table_lil17nov,REME-THIN-14,N,5,1,1,3.8,5.2,3.1,4.9,4,7.2,0.3,0,2.4,3.5,NA,TH
+fuels_fwd_table_lil17nov,REME-THIN-14,S,8,10,9,2.9,4.1,3,7,3.6,5.2,5.7,5.9,3.9,3.8,NA,TH
+fuels_fwd_table_lil17nov,REME-THIN-14,W,7,3,3,0,2.6,3.2,5.7,3.3,3.3,2.6,4.8,3.8,3.1,NA,TH
+fuels_fwd_table_lil17nov,REME-THIN-15,E,6,0,1,1.4,0.2,2.3,0,1.2,0,0.5,0.2,0.6,0.2,NA,"TH, AE"
+fuels_fwd_table_lil17nov,REME-THIN-15,N,19,2,8,2.5,5.8,1.7,8.4,0.6,1,2.7,6.6,0.2,4.8,SAMPLE 1 BUMPED 1FT RIGHT,"TH, AE"
+fuels_fwd_table_lil17nov,REME-THIN-15,S,7,1,0,1,0,2.9,7.2,4.8,5.8,3.5,4,0,0,SAMPLE 2 BUMPED 1FT RIGHT,"TH, AE"
+fuels_fwd_table_lil17nov,REME-THIN-15,W,4,5,1,5.2,0,1.9,1.1,0.7,1.4,0.5,0.7,0.2,0,NA,"TH, AE"
+fuels_fwd_table_lil17nov,REME-THIN-18,E,3,1,5,0,3.2,0.9,0,0.2,0,1.1,0.1,0,0,NA,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-18,N,9,0,0,0.9,0,0.4,1.6,1.1,0.6,0.7,0,0.2,0.4,NA,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-18,S,10,0,0,0.1,0,0.1,0,1.3,0.2,1.1,0,0.1,0,NA,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-18,W,10,1,0,0,0,1.7,0.3,0.3,0,2.4,0,2.9,0.2,NA,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-23,E,4,0,2,0.2,2.7,1.7,1.5,2,0,0,0,2.2,2.1,NA,"KF, TH"
+fuels_fwd_table_lil17nov,REME-THIN-23,N,15,10,2,0.6,0,1.1,0,5.4,0,0.3,0,0.8,0,NA,"KF, TH"
+fuels_fwd_table_lil17nov,REME-THIN-23,S,10,2,0,0.4,0,0.3,0,0.4,0,1.1,0.7,1.2,0.3,SAMPLE 5 BUMPED 1FT RIGHT,"KF, TH"
+fuels_fwd_table_lil17nov,REME-THIN-23,W,6,3,0,4,2.5,0.8,0,1.9,7,2.1,1.8,3.8,0,SAMPLE 5 BUMPED 1FT LEFT,"KF, TH"
+fuels_fwd_table_lil17nov,REME-THIN-25,E,8,1,0,1.1,0.3,1,0.4,0.6,0,0.8,0.3,0.6,0.8,NA,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-25,N,14,0,0,1.4,1.7,1.3,1.4,1.5,0,2.6,1.3,0.9,0,SAMPLE 5 BUMPED 1FT RIGHT,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-25,S,18,1,1,0.8,0.2,0.9,0,2.1,1.3,3.3,1.2,0.2,0,NA,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-25,W,0,0,0,0.1,5,1.1,3.2,0.6,3.2,1.1,4.2,1.6,0.1,NA,"KF, AE"
+fuels_fwd_table_lil17nov,REME-THIN-26,E,2,1,0,1.1,1.8,0.5,1.8,4.9,0,3.3,0,5.2,1.4,NA,AE-TH
+fuels_fwd_table_lil17nov,REME-THIN-26,N,1,0,0,1.1,0.9,0.2,1.6,1.5,0.1,2.3,0.4,7.5,3.1,NA,AE-TH
+fuels_fwd_table_lil17nov,REME-THIN-26,S,15,1,0,0.5,0.2,3.2,2.1,3.3,1.8,1.2,0.4,2.7,4,NA,AE-TH
+fuels_fwd_table_lil17nov,REME-THIN-26,W,28,4,0,1.9,1.2,6.4,1.2,1.8,2.4,6.9,5.3,0,0,NA,AE-TH
+fuels_fwd_table_lil17nov,REME-THIN-27,E,23,5,1,0.6,0,3,0,0.3,0,0.2,0,0.6,0,NA,AB
+fuels_fwd_table_lil17nov,REME-THIN-27,N,54,4,0,0.3,0,0.4,0,0.4,0,0.6,0,0.4,0,NA,AB
+fuels_fwd_table_lil17nov,REME-THIN-27,S,24,0,0,2.1,0,3.4,0,0.4,0,2.8,0,0.6,0,NA,AB
+fuels_fwd_table_lil17nov,REME-THIN-27,W,3,0,0,1.4,0,1.8,0,1.2,0,0.4,0,0.2,0,NA,AB
+fuels_fwd_table_lil17nov,USGS0409005,S,9,4,0,1.6,0,1.8,0,0.1,0,0,0,3.6,0,"SAMPLE 4 BUMPED 1FT RIGHT. 1HRS AND 10HRS TAKEN AT 13-11M; 100HRS TAKEN AT 13-10M, 8-7M. LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M, 17.5M, 18.5M, 20.5M, 22.5M, AND 24.5M.","KF, TH"
+fuels_fwd_table_lil17nov,USGS-409001,E,4,2,0,2.3,6.4,3.7,4.8,1.1,0,5.7,4.1,5.3,4,"1HRS AND 10HRS TAKEN AT 13-11M; 100HRS TAKEN AT 13-10M, 8-7M. LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M, 17.5M, 18.5M, 20.5M, 22.5M, AND 24.5M.","TH, AB"
+fuels_fwd_table_lil17nov,USGS-409001,N,10,10,2,2.8,6.9,9.5,6,0.6,16.1,3.5,4,2.9,9.9,"1HRS AND 10HRS TAKEN AT 13-11M; 100HRS TAKEN AT 13-10M, 8-7M. LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M, 17.5M, 18.5M, 20.5M, 22.5M, AND 24.5M.","TH, ABH"
+fuels_fwd_table_lil17nov,USGS-409001,S,11,2,0,0.2,0,1.6,0,1.4,3.5,0,0,2.8,1.1,"1HRS AND 10HRS TAKEN AT 13-11M; 100HRS TAKEN AT 13-10M, 8-7M. LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M, 17.5M, 18.5M, 20.5M, 22.5M, AND 24.5M.","TH, AB"
+fuels_fwd_table_lil17nov,USGS-409001,W,70,5,0,3,1.4,2.4,0,0.3,0,0.2,0,1.5,0,"1HRS AND 10HRS TAKEN AT 13-11M; 100HRS TAKEN AT 13-10M, 8-7M. LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M, 17.5M, 18.5M, 20.5M, 22.5M, AND 24.5M.","TH, AB"
+fuels_fwd_table_lil17nov,USGS-409005,E,5,0,2,0.5,0,0,0,0.2,0,0.2,0,1.1,0,"SAMPLE 1 BUMPED 1FT LEFT. 1HRS AND 10HRS TAKEN AT 13-11M; 100HRS TAKEN AT 13-10M, 8-7M. LITT AND DUFF SAMPLES TAKEN AT 5.5M, 7.5M, 9.5M, 11.5M, 12.5M, 17.5M, 18.5M, 20.5M, 22.5M, AND 24.5M.","KF, TH"
+fuels_fwd_table_lil17nov,USGS-409005,N,12,0,3,0.2,0,2.2,0,1.4,0,0.9,0,0.7,0,NA,"KF, TH"
+fuels_fwd_table_lil17nov,USGS-409005,W,2,0,1,0,0,6.4,0,0.3,0,1.4,0.1,0.1,0,NA,"KF, TH"

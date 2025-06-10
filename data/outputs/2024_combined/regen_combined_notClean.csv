@@ -1,0 +1,1275 @@
+name,PlotID,Species,LiveStatus,Ht_Class,Notes
+regen_table_big11nov,EAFR-RX-20,ABCO,Live,1 - (0-15cm),8
+regen_table_big11nov,EAFR-RX-20,ABCO,Live,2 - (16-30cm),8
+regen_table_big11nov,EAFR-RX-20,ABCO,Live,3 - (31-60cm),48
+regen_table_big11nov,EAFR-RX-20,ABCO,Live,4 - (61-100cm),96
+regen_table_big11nov,EAFR-RX-20,ABCO,Live,5 - (101-DBH; 137cm),68
+regen_table_big11nov,EAFR-RX-20,ABCO,Dead,3 - (31-60cm),20
+regen_table_big11nov,EAFR-RX-20,ABCO,Dead,4 - (61-100cm),32
+regen_table_big11nov,EAFR-RX-20,SEGI,Dead,4 - (61-100cm),4
+regen_table_big11nov,EAFR-RX-07,ABCO,Live,1 - (0-15cm),6
+regen_table_big11nov,EAFR-RX-07,ABCO,Live,2 - (16-30cm),104
+regen_table_big11nov,EAFR-RX-07,ABCO,Live,3 - (31-60cm),311
+regen_table_big11nov,EAFR-RX-07,ABCO,Live,4 - (61-100cm),5
+regen_table_big11nov,EAFR-RX-07,CADE,Live,3 - (31-60cm),3
+regen_table_big11nov,EAFR-RX-07,PILA,Live,3 - (31-60cm),3
+regen_table_big11nov,EAFR-RX-08,CADE,Live,4 - (61-100cm),NA
+regen_table_big11nov,EAFR-RX-08,PILA,Live,2 - (16-30cm),2
+regen_table_big11nov,EAFR-RX-08,ABCO,Live,4 - (61-100cm),2
+regen_table_big11nov,EAFR-RX-08,CADE,Live,2 - (16-30cm),3
+regen_table_big11nov,EAFR-RX-08,CADE,Live,3 - (31-60cm),5
+regen_table_big11nov,EAFR-RX-08,CADE,Live,1 - (0-15cm),NA
+regen_table_big11nov,EAFR-RX-08,ABCO,Live,2 - (16-30cm),3
+regen_table_big11nov,EAFR-RX-08,ABCO,Live,3 - (31-60cm),3
+regen_table_big11nov,EAFR-RX-08,ABCO,Live,1 - (0-15cm),NA
+regen_table_big11nov,EAFR-RX-08,PILA,Live,3 - (31-60cm),NA
+regen_table_big11nov,EAFR-RX-08,CADE,Live,2 - (16-30cm),3
+regen_table_big11nov,SECR-THIN-05,PIPO,Live,4 - (61-100cm),1
+regen_table_big11nov,SECR-THIN-05,PILA,Live,3 - (31-60cm),7
+regen_table_big11nov,SECR-THIN-05,ABCO,Live,3 - (31-60cm),2
+regen_table_big11nov,SECR-THIN-05,CADE,Live,1 - (0-15cm),20
+regen_table_big11nov,SECR-THIN-05,ABCO,Live,1 - (0-15cm),4
+regen_table_big11nov,SECR-THIN-05,PILA,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-05,QUKE,Live,1 - (0-15cm),2
+regen_table_big11nov,SECR-THIN-05,QUKE,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,CADE,Live,2 - (16-30cm),3
+regen_table_big11nov,SECR-THIN-05,PILA,Live,5 - (101-DBH; 137cm),3
+regen_table_big11nov,SECR-THIN-05,PILA,Live,4 - (61-100cm),4
+regen_table_big11nov,SECR-THIN-05,QUKE,Live,4 - (61-100cm),3
+regen_table_big11nov,SECR-THIN-05,QUKE,Live,3 - (31-60cm),1
+regen_table_big11nov,SECR-THIN-05,SEGI,Live,3 - (31-60cm),9
+regen_table_big11nov,SECR-THIN-05,SEGI,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,ABCO,Live,2 - (16-30cm),4
+regen_table_big11nov,SECR-THIN-05,SEGI,Live,4 - (61-100cm),3
+regen_table_big11nov,SECR-THIN-05,SEGI,Dead,4 - (61-100cm),3
+regen_table_big11nov,SECR-THIN-05,PIPO,Live,3 - (31-60cm),OVERTOPPED
+regen_table_big11nov,SECR-THIN-05,SEGI,Dead,3 - (31-60cm),4
+regen_table_big11nov,SECR-THIN-05,SEGI,Dead,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,PILA,Live,4 - (61-100cm),2
+regen_table_big11nov,SECR-THIN-05,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,SECR-THIN-05,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,QUKE,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-05,ABCO,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,ABCO,Live,3 - (31-60cm),1
+regen_table_big11nov,SECR-THIN-05,QUKE,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-05,PILA,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-05,ABCO,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,CADE,Live,2 - (16-30cm),5
+regen_table_big11nov,SECR-THIN-05,PILA,Live,5 - (101-DBH; 137cm),2
+regen_table_big11nov,SECR-THIN-05,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-05,QUKE,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-05,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-02,QUKE,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,1 - (0-15cm),4
+regen_table_big11nov,SECR-THIN-02,CADE,Live,3 - (31-60cm),1
+regen_table_big11nov,SECR-THIN-02,CADE,Live,4 - (61-100cm),1
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,3 - (31-60cm),2
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,2 - (16-30cm),9
+regen_table_big11nov,SECR-THIN-02,SEGI,Live,4 - (61-100cm),2
+regen_table_big11nov,SECR-THIN-02,SEGI,Live,3 - (31-60cm),1
+regen_table_big11nov,SECR-THIN-02,PILA,Live,3 - (31-60cm),1
+regen_table_big11nov,SECR-THIN-02,PILA,Live,1 - (0-15cm),2
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,4 - (61-100cm),3
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_big11nov,SECR-THIN-02,QUKE,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-02,CADE,Live,1 - (0-15cm),4
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,1 - (0-15cm),3
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,2 - (16-30cm),3
+regen_table_big11nov,SECR-THIN-02,CADE,Live,2 - (16-30cm),2
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,2 - (16-30cm),3
+regen_table_big11nov,SECR-THIN-02,ABCO,Live,1 - (0-15cm),4
+regen_table_big11nov,SECR-THIN-02,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,SECR-THIN-02,PILA,Live,1 - (0-15cm),1
+regen_table_big11nov,SECR-THIN-02REAL,PILA,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,PILA,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,QUKE,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,1 - (0-15cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,ABCO,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,PILA,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,3 - (31-60cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02REAL,CADE,Live,2 - (16-30cm),NA
+regen_table_big11nov,SECR-THIN-02,NONE,Live,3 - (31-60cm),2 CONU
+regen_table_big11nov,SECR-THIN-02,NONE,Live,2 - (16-30cm),1 CONU
+regen_table_big11nov,SECR-THIN-02,NONE,Live,4 - (61-100cm),1 CONU
+regen_table_big11nov,EAFR-RX-16,CADE,Live,3 - (31-60cm),1
+regen_table_big11nov,EAFR-RX-16,ABCO,Live,2 - (16-30cm),8
+regen_table_big11nov,EAFR-RX-16,ABCO,Live,3 - (31-60cm),49
+regen_table_big11nov,EAFR-RX-16,ABCO,Live,4 - (61-100cm),20
+regen_table_big11nov,EAFR-RX-16,ABCO,Live,5 - (101-DBH; 137cm),20
+regen_table_big11nov,EAFR-RX-16,ABCO,Live,1 - (0-15cm),2
+regen_table_big11nov,EAFR-RX-16,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,EAFR-RX-16,QUKE,Live,1 - (0-15cm),2
+regen_table_big11nov,EAFR-RX-16,QUKE,Live,2 - (16-30cm),2
+regen_table_big11nov,EAFR-RX-16,QUKE,Live,3 - (31-60cm),1
+regen_table_big11nov,EAFR-RX-16,PILA,Live,4 - (61-100cm),1
+regen_table_big11nov,EAFR-RX-16,ABCO,Dead,1 - (0-15cm),1
+regen_table_big11nov,EAFR-RX-16,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,EAFR-RX-21,ABCO,Live,5 - (101-DBH; 137cm),102
+regen_table_big11nov,EAFR-RX-21,ABCO,Dead,5 - (101-DBH; 137cm),2
+regen_table_big11nov,EAFR-RX-21,ABCO,Live,4 - (61-100cm),181
+regen_table_big11nov,EAFR-RX-21,ABCO,Live,3 - (31-60cm),89
+regen_table_big11nov,EAFR-RX-21,ABCO,Live,2 - (16-30cm),17
+regen_table_big11nov,EAFR-RX-21,ABCO,Live,1 - (0-15cm),3
+regen_table_big11nov,EAFR-RX-21,CADE,Live,4 - (61-100cm),2
+regen_table_big11nov,EAFR-RX-21,SEGI,Live,2 - (16-30cm),7
+regen_table_big11nov,EAFR-RX-21,PILA,Live,4 - (61-100cm),2
+regen_table_big11nov,EAFR-RX-21,ABCO,Dead,3 - (31-60cm),2
+regen_table_big11nov,EAFR-RX-21,SEGI,Live,3 - (31-60cm),1
+regen_table_big11nov,EAFR-RX-04,ABCO,Live,1 - (0-15cm),16
+regen_table_big11nov,EAFR-RX-04,ABCO,Live,2 - (16-30cm),12
+regen_table_big11nov,EAFR-RX-04,ABCO,Live,3 - (31-60cm),3
+regen_table_big11nov,EAFR-RX-04,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,EAFR-RX-26,PILA,Live,3 - (31-60cm),NA
+regen_table_big11nov,EAFR-RX-26,PILA,Live,4 - (61-100cm),NA
+regen_table_big11nov,EAFR-RX-26,PILA,Live,1 - (0-15cm),NA
+regen_table_big11nov,EAFR-RX-26,PILA,Live,1 - (0-15cm),NA
+regen_table_big11nov,EAFR-RX-22,ABCO,Live,4 - (61-100cm),26
+regen_table_big11nov,EAFR-RX-22,ABCO,Live,5 - (101-DBH; 137cm),10
+regen_table_big11nov,EAFR-RX-22,ABCO,Live,3 - (31-60cm),5
+regen_table_big11nov,EAFR-RX-22,CADE,Live,4 - (61-100cm),4
+regen_table_big11nov,EAFR-RX-22,CADE,Live,3 - (31-60cm),6
+regen_table_big11nov,EAFR-RX-22,ABCO,Live,2 - (16-30cm),2
+regen_table_big11nov,EAFR-RX-22,ABCO,Dead,4 - (61-100cm),2
+regen_table_big11nov,EAFR-RX-22,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,EAFR-RX-22,CADE,Live,2 - (16-30cm),2
+regen_table_big11nov,EAFR-RX-22,CADE,Dead,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-02,CADE,Live,2 - (16-30cm),5
+regen_table_big11nov,GRGR-RX-02,CADE,Live,3 - (31-60cm),39
+regen_table_big11nov,GRGR-RX-02,ABCO,Live,3 - (31-60cm),9
+regen_table_big11nov,GRGR-RX-02,CADE,Live,4 - (61-100cm),52
+regen_table_big11nov,GRGR-RX-02,ABCO,Live,4 - (61-100cm),3
+regen_table_big11nov,GRGR-RX-02,PIPO,Live,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-02,SEGI,Live,4 - (61-100cm),15
+regen_table_big11nov,GRGR-RX-02,CADE,Live,5 - (101-DBH; 137cm),5
+regen_table_big11nov,GRGR-RX-02,SEGI,Live,5 - (101-DBH; 137cm),6
+regen_table_big11nov,GRGR-RX-02,SEGI,Live,3 - (31-60cm),9
+regen_table_big11nov,GRGR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-02,ABCO,Live,2 - (16-30cm),2
+regen_table_big11nov,GRGR-RX-02,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,GRGR-RX-03,SEGI,Live,4 - (61-100cm),21
+regen_table_big11nov,GRGR-RX-03,CADE,Live,2 - (16-30cm),2
+regen_table_big11nov,GRGR-RX-03,SEGI,Live,5 - (101-DBH; 137cm),20
+regen_table_big11nov,GRGR-RX-03,ABCO,Live,3 - (31-60cm),2
+regen_table_big11nov,GRGR-RX-03,ABCO,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-03,CADE,Live,5 - (101-DBH; 137cm),4
+regen_table_big11nov,GRGR-RX-03,SEGI,Live,2 - (16-30cm),10
+regen_table_big11nov,GRGR-RX-03,SEGI,Live,3 - (31-60cm),38
+regen_table_big11nov,GRGR-RX-03,ABCO,Live,5 - (101-DBH; 137cm),6
+regen_table_big11nov,GRGR-RX-03,CADE,Live,4 - (61-100cm),7
+regen_table_big11nov,GRGR-RX-03,CADE,Live,3 - (31-60cm),2
+regen_table_big11nov,GRGR-RX-03,ABCO,Live,4 - (61-100cm),8
+regen_table_big11nov,GRGR-RX-03,PILA,Live,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-03,PIPO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-03,ABCO,Live,3 - (31-60cm),1
+regen_table_big11nov,GRGR-RX-03,SEGI,Dead,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-04,ABCO,Live,3 - (31-60cm),5
+regen_table_big11nov,GRGR-RX-04,ABCO,Live,1 - (0-15cm),3
+regen_table_big11nov,GRGR-RX-04,ABCO,Live,2 - (16-30cm),15
+regen_table_big11nov,GRGR-RX-04,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-04,ABCO,Live,4 - (61-100cm),4
+regen_table_big11nov,GRGR-RX-04,ABCO,Live,5 - (101-DBH; 137cm),2
+regen_table_big11nov,GRGR-RX-04,SEGI,Live,3 - (31-60cm),SAD
+regen_table_big11nov,GRGR-RX-01,SEGI,Live,2 - (16-30cm),29
+regen_table_big11nov,GRGR-RX-01,SEGI,Live,3 - (31-60cm),14
+regen_table_big11nov,GRGR-RX-01,CADE,Live,2 - (16-30cm),21
+regen_table_big11nov,GRGR-RX-01,CADE,Live,1 - (0-15cm),10
+regen_table_big11nov,GRGR-RX-01,ABCO,Live,2 - (16-30cm),4
+regen_table_big11nov,GRGR-RX-01,ABCO,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-01,SEGI,Live,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-01,CADE,Live,3 - (31-60cm),2
+regen_table_big11nov,GRGR-RX-01,SEGI,Live,1 - (0-15cm),4
+regen_table_big11nov,GRGR-RX-01,SEGI,Dead,1 - (0-15cm),5
+regen_table_big11nov,GRGR-RX-07,ABCO,Live,1 - (0-15cm),6
+regen_table_big11nov,GRGR-RX-07,ABCO,Live,2 - (16-30cm),8
+regen_table_big11nov,GRGR-RX-07,PIPO,Live,2 - (16-30cm),"PIPOJE, 1"
+regen_table_big11nov,GRGR-RX-07,CADE,Live,2 - (16-30cm),9
+regen_table_big11nov,GRGR-RX-07,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-07,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,GRGR-RX-07,ABCO,Live,2 - (16-30cm),"SAD - UNDER PILE, 1"
+regen_table_big11nov,GRGR-RX-07,SEGI,Live,1 - (0-15cm),4
+regen_table_big11nov,GRGR-RX-07,SEGI,Live,2 - (16-30cm),"VERY SAD, 1"
+regen_table_big11nov,GRGR-RX-07,ABCO,Live,3 - (31-60cm),1
+regen_table_big11nov,GRGR-RX-07,SEGI,Live,2 - (16-30cm),7
+regen_table_big11nov,GRGR-RX-05,ABCO,Live,3 - (31-60cm),6
+regen_table_big11nov,GRGR-RX-05,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-05,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-05,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-05,NA,NA,NA,NA
+regen_table_big11nov,GRGR-RX-08,PILA,Live,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-08,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-08,CADE,Live,2 - (16-30cm),1
+regen_table_big11nov,GRGR-RX-08,CADE,Live,3 - (31-60cm),1
+regen_table_big11nov,GRGR-RX-10,ABCO,Live,2 - (16-30cm),3
+regen_table_big11nov,GRGR-RX-10,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-10,PILA,Live,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-11,ABCO,Live,3 - (31-60cm),5
+regen_table_big11nov,GRGR-RX-11,CADE,Live,4 - (61-100cm),2
+regen_table_big11nov,GRGR-RX-11,CADE,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-11,ABCO,Live,4 - (61-100cm),5
+regen_table_big11nov,GRGR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),2
+regen_table_big11nov,GRGR-RX-11,CADE,Live,3 - (31-60cm),1
+regen_table_big11nov,GRGR-RX-09,ABCO,Live,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-09,ABCO,Live,2 - (16-30cm),2
+regen_table_big11nov,GRGR-RX-09,PILA,Live,4 - (61-100cm),1
+regen_table_big11nov,GRGR-RX-09,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-06,QUKE,Live,2 - (16-30cm),2
+regen_table_big11nov,GRGR-RX-06,CADE,Live,3 - (31-60cm),12
+regen_table_big11nov,GRGR-RX-06,CADE,Live,2 - (16-30cm),110
+regen_table_big11nov,GRGR-RX-06,CADE,Live,1 - (0-15cm),48
+regen_table_big11nov,GRGR-RX-06,CADE,Dead,1 - (0-15cm),3
+regen_table_big11nov,GRGR-RX-06,QUKE,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-06,QUKE,Live,3 - (31-60cm),2
+regen_table_big11nov,GRGR-RX-06,ABCO,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-06,PILA,Live,1 - (0-15cm),1
+regen_table_big11nov,GRGR-RX-06,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,GRGR-RX-06,CADE,Live,4 - (61-100cm),1
+regen_table_big11nov,BIST-RX-01,ABCO,Live,1 - (0-15cm),1
+regen_table_big11nov,BIST-RX-01,QUKE,Live,1 - (0-15cm),12
+regen_table_big11nov,BIST-RX-01,QUKE,Live,2 - (16-30cm),11
+regen_table_big11nov,BIST-RX-01,ABCO,Live,2 - (16-30cm),7
+regen_table_big11nov,BIST-RX-01,CADE,Live,1 - (0-15cm),5
+regen_table_big11nov,BIST-RX-01,CADE,Live,2 - (16-30cm),10
+regen_table_big11nov,BIST-RX-01,ABCO,Live,3 - (31-60cm),10
+regen_table_big11nov,BIST-RX-01,CADE,Live,3 - (31-60cm),16
+regen_table_big11nov,BIST-RX-01,CADE,Live,4 - (61-100cm),2
+regen_table_big11nov,BIST-RX-01,ABCO,Live,4 - (61-100cm),2
+regen_table_big11nov,BIST-RX-13,ABCO,Live,1 - (0-15cm),7
+regen_table_big11nov,BIST-RX-13,ABCO,Live,2 - (16-30cm),8
+regen_table_big11nov,BIST-RX-13,ABCO,Live,3 - (31-60cm),59
+regen_table_big11nov,BIST-RX-13,CADE,Live,1 - (0-15cm),7
+regen_table_big11nov,BIST-RX-13,CADE,Dead,1 - (0-15cm),1
+regen_table_big11nov,BIST-RX-13,CADE,Live,2 - (16-30cm),5
+regen_table_big11nov,BIST-RX-13,ABCO,Live,4 - (61-100cm),5
+regen_table_big11nov,BIST-RX-13,ABCO,Dead,1 - (0-15cm),1
+regen_table_big11nov,BIST-RX-13,CADE,Live,2 - (16-30cm),1
+regen_table_big11nov,BIST-RX-07,SEGI,Live,1 - (0-15cm),3
+regen_table_big11nov,BIST-RX-07,ABCO,Live,2 - (16-30cm),1
+regen_table_big11nov,BIST-RX-06,QUKE,Live,1 - (0-15cm),5
+regen_table_big11nov,BIST-RX-06,ABCO,Live,2 - (16-30cm),8
+regen_table_big11nov,BIST-RX-06,ABCO,Live,3 - (31-60cm),13
+regen_table_big11nov,BIST-RX-06,ABCO,Live,4 - (61-100cm),1
+regen_table_big11nov,BIST-RX-06,ABCO,Live,1 - (0-15cm),3
+regen_table_big11nov,BIST-RX-06,QUKE,Live,2 - (16-30cm),4
+regen_table_big11nov,BIST-RX-02,CADE,Live,1 - (0-15cm),16
+regen_table_big11nov,BIST-RX-02,QUKE,Live,1 - (0-15cm),9
+regen_table_big11nov,BIST-RX-02,CADE,Live,3 - (31-60cm),14
+regen_table_big11nov,BIST-RX-02,ABCO,Live,2 - (16-30cm),14
+regen_table_big11nov,BIST-RX-02,ABCO,Live,3 - (31-60cm),17
+regen_table_big11nov,BIST-RX-02,PILA,Live,3 - (31-60cm),2
+regen_table_big11nov,BIST-RX-02,CADE,Live,2 - (16-30cm),8
+regen_table_big11nov,BIST-RX-02,CADE,Live,4 - (61-100cm),4
+regen_table_big11nov,BIST-RX-02,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,BIST-RX-02,ABCO,Live,4 - (61-100cm),2
+regen_table_big11nov,BIST-RX-02,CADE,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,BIST-RX-02,QUKE,Live,2 - (16-30cm),2
+regen_table_big11nov,BIST-RX-02,QUKE,Live,3 - (31-60cm),1
+regen_table_big11nov,BIST-RX-03,QUKE,Live,1 - (0-15cm),2
+regen_table_big11nov,BIST-RX-03,ABCO,Dead,5 - (101-DBH; 137cm),1
+regen_table_big11nov,BIST-RX-04,ABCO,Live,1 - (0-15cm),1
+regen_table_big11nov,BIST-RX-05,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,BIST-RX-05,QUCH,Live,1 - (0-15cm),3
+regen_table_big11nov,NA,NA,NA,NA,NA
+regen_table_big11nov,BIST-RX-08,ABCO,Live,2 - (16-30cm),NA
+regen_table_big11nov,BIST-RX-09,QUCH,Live,2 - (16-30cm),2
+regen_table_big11nov,BIST-RX-09,CADE,Live,3 - (31-60cm),1
+regen_table_big11nov,BIST-RX-09,ABCO,Live,3 - (31-60cm),1
+regen_table_big11nov,BIST-RX-09,QUCH,Live,1 - (0-15cm),1
+regen_table_big11nov,BIST-RX-09,QUCH,Live,3 - (31-60cm),1
+regen_table_big11nov,BIST-RX-09,ABCO,Live,3 - (31-60cm),1
+regen_table_big11nov,BIST-RX-12,PILA,Live,3 - (31-60cm),NA
+regen_table_big11nov,BIST-RX-11,CADE,Live,1 - (0-15cm),13
+regen_table_big11nov,BIST-RX-11,ABCO,Live,3 - (31-60cm),42
+regen_table_big11nov,BIST-RX-11,ABCO,Live,2 - (16-30cm),22
+regen_table_big11nov,BIST-RX-11,ABCO,Live,4 - (61-100cm),9
+regen_table_big11nov,BIST-RX-11,ABCO,Live,1 - (0-15cm),6
+regen_table_big11nov,BIST-RX-11,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,BIST-RX-11,CADE,Live,2 - (16-30cm),2
+regen_table_big11nov,BIST-RX-11,ABCO,Dead,1 - (0-15cm),1
+regen_table_big11nov,BIST-RX-11,QUKE,Live,2 - (16-30cm),4
+regen_table_big11nov,BIST-RX-11,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,BIST-RX-11,CADE,Live,3 - (31-60cm),2
+regen_table_big11nov,BIST-RX-11,PILA,Live,3 - (31-60cm),1
+regen_table_big11nov,BIST-RX-10,QUKE,Live,2 - (16-30cm),1
+regen_table_big11nov,BIST-RX-10,ABCO,Live,3 - (31-60cm),4
+regen_table_big11nov,BIST-RX-10,ABCO,Dead,2 - (16-30cm),1
+regen_table_big11nov,BIST-RX-10,ABCO,Dead,3 - (31-60cm),1
+regen_table_big11nov,BIST-RX-10,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,BIST-RX-10,PILA,Live,2 - (16-30cm),1
+regen_table_big11nov,REME-THIN-11,QUKE,Live,1 - (0-15cm),3
+regen_table_big11nov,REME-THIN-11,QUKE,Live,2 - (16-30cm),84
+regen_table_big11nov,REME-THIN-11,QUKE,Live,3 - (31-60cm),276
+regen_table_big11nov,REME-THIN-11,QUKE,Live,4 - (61-100cm),4
+regen_table_big11nov,REME-THIN-11,CADE,Live,1 - (0-15cm),5
+regen_table_big11nov,REME-THIN-11,CADE,Dead,2 - (16-30cm),1
+regen_table_big11nov,REME-THIN-11,ABCO,Live,1 - (0-15cm),3
+regen_table_big11nov,REME-THIN-11,QUKE,Dead,3 - (31-60cm),9
+regen_table_big11nov,ATWE-RX-40,ABCO,Live,1 - (0-15cm),44
+regen_table_big11nov,ATWE-RX-40,CADE,Live,1 - (0-15cm),10
+regen_table_big11nov,ATWE-RX-40,CADE,Live,2 - (16-30cm),3
+regen_table_big11nov,ATWE-RX-40,ABCO,Dead,1 - (0-15cm),1
+regen_table_big11nov,ATWE-RX-40,PILA,Live,2 - (16-30cm),2
+regen_table_big11nov,ATWE-RX-40,QUKE,Live,1 - (0-15cm),1
+regen_table_big11nov,ATWE-THIN-29,PIPO,Live,1 - (0-15cm),PIPOJE - 1
+regen_table_big11nov,ATWE-THIN-29,CADE,Live,2 - (16-30cm),1
+regen_table_big11nov,ATWE-THIN-29,PIPO,Live,2 - (16-30cm),PIPOJE - 1
+regen_table_big11nov,ATWE-THIN-29,PIPO,Live,4 - (61-100cm),PIPOJE - 1
+regen_table_big11nov,ATWE-THIN-29,PIPO,Live,3 - (31-60cm),PIPOJE - 1
+regen_table_big11nov,ATWE-THIN-29,ABCO,Live,2 - (16-30cm),1
+regen_table_big11nov,ATWE-THIN-13,ABCO,Live,1 - (0-15cm),NA
+regen_table_big11nov,atwe-thin-02,SEGI,Live,4 - (61-100cm),16
+regen_table_big11nov,atwe-thin-02,SEGI,Live,3 - (31-60cm),2
+regen_table_big11nov,atwe-thin-02,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,atwe-thin-02,ABCO,Live,4 - (61-100cm),1
+regen_table_big11nov,atwe-thin-02,SEGI,Live,5 - (101-DBH; 137cm),3
+regen_table_big11nov,ATWE-THIN-11,ABCO,Live,1 - (0-15cm),39
+regen_table_big11nov,ATWE-THIN-11,SEGI,Live,1 - (0-15cm),58
+regen_table_big11nov,ATWE-THIN-11,CADE,Live,1 - (0-15cm),1
+regen_table_big11nov,ATWE-THIN-11,SEGI,Dead,1 - (0-15cm),3
+regen_table_big11nov,ATWE-THIN-23,SEGI,Live,3 - (31-60cm),58
+regen_table_big11nov,ATWE-THIN-23,SEGI,Live,2 - (16-30cm),88
+regen_table_big11nov,ATWE-THIN-23,SEGI,Live,1 - (0-15cm),77
+regen_table_big11nov,ATWE-THIN-23,ABCO,Live,2 - (16-30cm),4
+regen_table_big11nov,ATWE-THIN-23,ABCO,Live,1 - (0-15cm),1
+regen_table_big11nov,ATWE-THIN-23,SEGI,Dead,1 - (0-15cm),2
+regen_table_big11nov,ATWE-THIN-23,SEGI,Live,4 - (61-100cm),2
+regen_table_big11nov,ATWE-THIN-23,PILA,Live,1 - (0-15cm),1
+regen_table_big11nov,ATWE-THIN-23,PIPO,Live,1 - (0-15cm),"PIXX, 3"
+regen_table_big11nov,ATWE-THIN-23,PIPO,Live,2 - (16-30cm),PIPOJE
+regen_table_big11nov,ATWE-THIN-23,PIPO,Dead,1 - (0-15cm),PIXX
+regen_table_big11nov,atwe-thin-04,QUKE,Live,4 - (61-100cm),2
+regen_table_big11nov,atwe-thin-04,QUKE,Live,3 - (31-60cm),1
+regen_table_big11nov,ATWE-THIN-15,ABCO,Live,4 - (61-100cm),2
+regen_table_big11nov,ATWE-THIN-15,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_big11nov,ATWE-THIN-36,SEGI,Live,1 - (0-15cm),1086
+regen_table_big11nov,ATWE-THIN-36,SEGI,Dead,1 - (0-15cm),319
+regen_table_big11nov,ATWE-THIN-36,ABCO,Live,1 - (0-15cm),14
+regen_table_big11nov,ATWE-THIN-36,CADE,Live,1 - (0-15cm),3
+regen_table_big11nov,ATWE-THIN-36,SEGI,Live,2 - (16-30cm),178
+regen_table_big11nov,ATWE-THIN-36,ABCO,Live,2 - (16-30cm),7
+regen_table_big11nov,ATWE-THIN-36,CADE,Live,2 - (16-30cm),2
+regen_table_big11nov,ATWE-THIN-36,SEGI,Live,3 - (31-60cm),19
+regen_table_big11nov,ATWE-THIN-36,SEGI,Dead,2 - (16-30cm),3
+regen_table_big11nov,ATWE-THIN-36,ABCO,Dead,1 - (0-15cm),1
+regen_table_big11nov,ATWE-THIN-36,CADE,Live,3 - (31-60cm),1
+regen_table_big11nov,ATWE-THIN-36,ABCO,Live,3 - (31-60cm),1
+regen_table_big11nov,ATWE-THIN-24,ABCO,Live,1 - (0-15cm),85
+regen_table_big11nov,ATWE-THIN-24,SEGI,Live,1 - (0-15cm),27
+regen_table_big11nov,ATWE-THIN-24,ABCO,Dead,1 - (0-15cm),7
+regen_table_big11nov,ATWE-THIN-24,ABCO,Live,2 - (16-30cm),20
+regen_table_big11nov,ATWE-THIN-24,CADE,Live,1 - (0-15cm),8
+regen_table_big11nov,ATWE-THIN-24,SEGI,Live,2 - (16-30cm),19
+regen_table_big11nov,ATWE-THIN-24,CADE,Live,2 - (16-30cm),8
+regen_table_big11nov,ATWE-THIN-24,SEGI,Dead,1 - (0-15cm),3
+regen_table_big11nov,ATWE-THIN-24,SEGI,Live,3 - (31-60cm),1
+regen_table_big11nov,ATWE-THIN-24,QUKE,Live,2 - (16-30cm),1
+regen_table_big11nov,ATWE-THIN-19,CADE,Live,2 - (16-30cm),17
+regen_table_big11nov,ATWE-THIN-19,CADE,Live,3 - (31-60cm),3
+regen_table_big11nov,ATWE-THIN-19,CADE,Live,1 - (0-15cm),25
+regen_table_big11nov,ATWE-THIN-19,ABCO,Live,2 - (16-30cm),4
+regen_table_big11nov,ATWE-THIN-19,PILA,Live,4 - (61-100cm),3
+regen_table_big11nov,ATWE-THIN-19,PILA,Live,3 - (31-60cm),3
+regen_table_big11nov,ATWE-THIN-19,ABCO,Live,1 - (0-15cm),3
+regen_table_big11nov,ATWE-THIN-39,SEGI,Live,1 - (0-15cm),1798
+regen_table_big11nov,ATWE-THIN-39,SEGI,Dead,1 - (0-15cm),50
+regen_table_big11nov,ATWE-THIN-39,SEGI,Live,2 - (16-30cm),17
+regen_table_big11nov,ATWE-THIN-39,ABCO,Dead,1 - (0-15cm),1
+regen_table_big11nov,ATWE-THIN-39,ABCO,Live,1 - (0-15cm),13
+regen_table_big17nov,REMO-PLANT-48,SEGI,Live,2 - (16-30cm),9
+regen_table_big17nov,REMO-PLANT-48,SEGI,Live,1 - (0-15cm),PLANTED 2
+regen_table_big17nov,REMO-PLANT-48,SEGI,Dead,1 - (0-15cm),1
+regen_table_big17nov,REMO-PLANT-48,SEGI,Live,4 - (61-100cm),PLANTED 2
+regen_table_big17nov,REMO-PLANT-48,SEGI,Live,1 - (0-15cm),5
+regen_table_big17nov,REMO-PLANT-48,PIPOJE,Live,2 - (16-30cm),PLANTED 2
+regen_table_big17nov,REMO-PLANT-48,SEGI,Live,3 - (31-60cm),5
+regen_table_big17nov,REMO-PLANT-48,SEGI,Live,4 - (61-100cm),1
+regen_table_big17nov,REMO-PLANT-48,PILA,Dead,2 - (16-30cm),PLANTED 1
+regen_table_big17nov,REMO-PLANT-17,PIPOJE,Dead,1 - (0-15cm),5 PLANTED
+regen_table_big17nov,REMO-PLANT-17,PIPOJE,Dead,2 - (16-30cm),2 PLANTED
+regen_table_big17nov,REMO-PLANT-17,SEGI,Dead,1 - (0-15cm),2 NATURAL
+regen_table_big17nov,REMO-PLANT-17,SEGI,Live,2 - (16-30cm),"2 NATURAL, VERY SAD"
+regen_table_big17nov,REMO-PLANT-17,PIPOJE,Live,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-17,SEGI,Dead,1 - (0-15cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-17,PIJE,Live,1 - (0-15cm),2 PLANTED
+regen_table_big17nov,REMO-PLANT-17,SEGI,Dead,3 - (31-60cm),"1 NATURAL, JUST PASSED"
+regen_table_big17nov,REMO-PLANT-17,SEGI,Dead,2 - (16-30cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-46,SEGI,Live,3 - (31-60cm),PLANTED - 2
+regen_table_big17nov,REMO-PLANT-46,SEGI,Live,2 - (16-30cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-46,SEGI,Dead,2 - (16-30cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-46,SEGI,Live,4 - (61-100cm),1
+regen_table_big17nov,REMO-PLANT-46,SEGI,Dead,2 - (16-30cm),PLANTED - 3
+regen_table_big17nov,REMO-PLANT-46,SEGI,Live,2 - (16-30cm),2
+regen_table_big17nov,REMO-PLANT-46,SEGI,Live,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-46,PILA,Dead,1 - (0-15cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-42,PIXX,Dead,1 - (0-15cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-42,SEGI,Dead,1 - (0-15cm),"PLANTED, 3"
+regen_table_big17nov,REMO-PLANT-42,SEGI,Dead,2 - (16-30cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-42,PIPOJE,Live,2 - (16-30cm),"PLANTED, 1 SAD"
+regen_table_big17nov,REMO-PLANT-33,SEGI,Dead,1 - (0-15cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-33,SEGI,Dead,2 - (16-30cm),10 NATURAL
+regen_table_big17nov,REMO-PLANT-33,SEGI,Dead,3 - (31-60cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-33,QUKE,Live,1 - (0-15cm),2
+regen_table_big17nov,REMO-PLANT-33,QUKE,Live,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-33,SEGI,Dead,1 - (0-15cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-07,SEGI,Live,4 - (61-100cm),66
+regen_table_big17nov,REMO-PLANT-07,SEGI,Live,3 - (31-60cm),126
+regen_table_big17nov,REMO-PLANT-07,SEGI,Live,5 - (101-DBH; 137cm),3
+regen_table_big17nov,REMO-PLANT-07,SEGI,Live,2 - (16-30cm),11
+regen_table_big17nov,REMO-PLANT-07,SEGI,Dead,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-07,SEGI,Dead,3 - (31-60cm),4
+regen_table_big17nov,REMO-PLANT-07,CADE,Live,3 - (31-60cm),1
+regen_table_big17nov,REMO-PLANT-22,SEGI,Dead,1 - (0-15cm),"PLANTED, 4"
+regen_table_big17nov,REMO-PLANT-22,SEGI,Live,1 - (0-15cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-22,SEGI,Live,2 - (16-30cm),3
+regen_table_big17nov,REMO-PLANT-22,SEGI,Dead,1 - (0-15cm),"1, BROKEN TOP"
+regen_table_big17nov,REMO-PLANT-22,SEGI,Live,1 - (0-15cm),1
+regen_table_big17nov,REMO-PLANT-10,SEGI,Live,3 - (31-60cm),15 NATURAL
+regen_table_big17nov,REMO-PLANT-10,SEGI,Dead,3 - (31-60cm),3 NATURAL
+regen_table_big17nov,REMO-PLANT-10,PILA,Dead,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-10,SEGI,Live,2 - (16-30cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-10,SEGI,Dead,1 - (0-15cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-10,SEGI,Live,4 - (61-100cm),10 NATURAL
+regen_table_big17nov,REMO-PLANT-10,PIPOJE,Live,2 - (16-30cm),4 PLANTED
+regen_table_big17nov,REMO-PLANT-10,SEGI,Live,5 - (101-DBH; 137cm),3 NATURAL
+regen_table_big17nov,REMO-PLANT-37,PILA,Dead,2 - (16-30cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-37,PILA,Dead,1 - (0-15cm),PLANTED - 2
+regen_table_big17nov,REMO-PLANT-37,SEGI,Dead,1 - (0-15cm),PLANTED - 7
+regen_table_big17nov,REMO-PLANT-37,SEGI,Dead,2 - (16-30cm),PLANTED - 2
+regen_table_big17nov,REMO-PLANT-37,PIPOJE,Dead,2 - (16-30cm),PLANTED - 2
+regen_table_big17nov,REMO-PLANT-37,SEGI,Dead,3 - (31-60cm),NATTY - 1
+regen_table_big17nov,REMO-PLANT-37,PIPOJE,Live,2 - (16-30cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-06,SEGI,Live,4 - (61-100cm),2
+regen_table_big17nov,REMO-PLANT-06,SEGI,Live,2 - (16-30cm),3
+regen_table_big17nov,REMO-PLANT-06,SEGI,Live,1 - (0-15cm),2
+regen_table_big17nov,REMO-PLANT-06,PILA,Live,2 - (16-30cm),"PLANTED, 3"
+regen_table_big17nov,REMO-PLANT-06,SEGI,Live,3 - (31-60cm),1
+regen_table_big17nov,REMO-PLANT-06,NA,NA,NA,NA
+regen_table_big17nov,REMO-PLANT-06,NA,NA,NA,NA
+regen_table_big17nov,REMO-PLANT-02,SEGI,Live,3 - (31-60cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-50,SEGI,Dead,1 - (0-15cm),PLANTED - 3
+regen_table_big17nov,REMO-PLANT-50,SEGI,Dead,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-50,PILA,Dead,1 - (0-15cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-50,PIPOJE,Live,2 - (16-30cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-50,SEGI,Live,4 - (61-100cm),6
+regen_table_big17nov,REMO-PLANT-50,QUCH,Live,4 - (61-100cm),2
+regen_table_big17nov,REMO-PLANT-50,QUCH,Live,3 - (31-60cm),1
+regen_table_big17nov,REMO-PLANT-50,SEGI,Live,3 - (31-60cm),3
+regen_table_big17nov,REMO-PLANT-50,SEGI,Live,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-50,SEGI,Live,5 - (101-DBH; 137cm),1
+regen_table_big17nov,REMO-PLANT-50,SEGI,Dead,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-50,SEGI,Live,1 - (0-15cm),9
+regen_table_big17nov,REMO-PLANT-50,SEGI,Dead,1 - (0-15cm),2
+regen_table_big17nov,REMO-PLANT-13,SEGI,Live,2 - (16-30cm),71
+regen_table_big17nov,REMO-PLANT-13,SEGI,Live,3 - (31-60cm),194
+regen_table_big17nov,REMO-PLANT-13,SEGI,Live,4 - (61-100cm),45
+regen_table_big17nov,REMO-PLANT-13,SEGI,Live,1 - (0-15cm),50
+regen_table_big17nov,REMO-PLANT-13,CADE,Live,3 - (31-60cm),1
+regen_table_big17nov,REMO-PLANT-13,SEGI,Dead,1 - (0-15cm),8
+regen_table_big17nov,REMO-PLANT-13,SEGI,Dead,3 - (31-60cm),7
+regen_table_big17nov,REMO-PLANT-13,ABCO,Live,2 - (16-30cm),3
+regen_table_big17nov,REMO-PLANT-13,PILA,Dead,2 - (16-30cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-13,PIPOJE,Live,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-13,ABCO,Live,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-13,SEGI,Dead,2 - (16-30cm),26
+regen_table_big17nov,REMO-PLANT-13,CADE,Live,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-13,PIPOJE,Live,2 - (16-30cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-19,SEGI,Dead,1 - (0-15cm),45 NATURAL
+regen_table_big17nov,REMO-PLANT-19,SEGI,Dead,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-19,SEGI,Dead,1 - (0-15cm),4 PLANTED
+regen_table_big17nov,REMO-PLANT-19,SEGI,Dead,3 - (31-60cm),23 NATURAL
+regen_table_big17nov,REMO-PLANT-19,PIPOJE,Dead,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-19,PIPOJE,Live,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-19,SEGI,Live,4 - (61-100cm),6 NATURAL
+regen_table_big17nov,REMO-PLANT-19,SEGI,Live,1 - (0-15cm),10 NATURAL
+regen_table_big17nov,REMO-PLANT-19,ABCO,Live,2 - (16-30cm),2 NATURAL
+regen_table_big17nov,REMO-PLANT-19,SEGI,Live,3 - (31-60cm),117 NATURAL
+regen_table_big17nov,REMO-PLANT-19,SEGI,Live,2 - (16-30cm),78 NATURAL
+regen_table_big17nov,REMO-PLANT-19,SEGI,Dead,2 - (16-30cm),86 NATURAL
+regen_table_big17nov,REMO-PLANT-18,SEGI,Live,3 - (31-60cm),6
+regen_table_big17nov,REMO-PLANT-18,SEGI,Live,2 - (16-30cm),3
+regen_table_big17nov,REMO-PLANT-18,SEGI,Dead,1 - (0-15cm),1
+regen_table_big17nov,REMO-PLANT-18,SEGI,Dead,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-18,SEGI,Live,4 - (61-100cm),1
+regen_table_big17nov,REMO-PLANT-18,SEGI,Dead,1 - (0-15cm),PLANTED - 2
+regen_table_big17nov,REMO-PLANT-18,SEGI,Dead,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-04,SEGI,Live,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-04,SEGI,Live,1 - (0-15cm),1
+regen_table_big17nov,REMO-PLANT-04,SEGI,Live,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-27,SEGI,Dead,2 - (16-30cm),17 NATURAL
+regen_table_big17nov,REMO-PLANT-27,CADE,Live,1 - (0-15cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-27,SEGI,Dead,1 - (0-15cm),11 NATURAL
+regen_table_big17nov,REMO-PLANT-27,SEGI,Live,4 - (61-100cm),23 NATURAL
+regen_table_big17nov,REMO-PLANT-27,SEGI,Live,3 - (31-60cm),56 NATURAL
+regen_table_big17nov,REMO-PLANT-27,SEGI,Dead,3 - (31-60cm),4 NATURAL
+regen_table_big17nov,REMO-PLANT-27,CADE,Live,3 - (31-60cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-27,SEGI,Live,2 - (16-30cm),44 NATURAL
+regen_table_big17nov,REMO-PLANT-27,SEGI,Live,1 - (0-15cm),16 NATURAL
+regen_table_big17nov,REMO-PLANT-27,SEGI,Live,5 - (101-DBH; 137cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-11,SEGI,Dead,1 - (0-15cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-05,SEGI,Dead,1 - (0-15cm),5
+regen_table_big17nov,REMO-PLANT-05,SEGI,Live,2 - (16-30cm),6
+regen_table_big17nov,REMO-PLANT-05,SEGI,Dead,3 - (31-60cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-05,PIXX,Dead,2 - (16-30cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-05,SEGI,Live,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-05,SEGI,Live,2 - (16-30cm),"PLANTED, 1"
+regen_table_big17nov,REMO-PLANT-05,SEGI,Live,1 - (0-15cm),1
+regen_table_big17nov,REMO-PLANT-41,SEGI,Live,3 - (31-60cm),32 NATURAL
+regen_table_big17nov,REMO-PLANT-41,SEGI,Dead,3 - (31-60cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-41,SEGI,Dead,1 - (0-15cm),4 NATURAL
+regen_table_big17nov,REMO-PLANT-41,SEGI,Live,2 - (16-30cm),44 NATURAL
+regen_table_big17nov,REMO-PLANT-41,SEGI,Dead,2 - (16-30cm),2 NATURAL
+regen_table_big17nov,REMO-PLANT-41,SEGI,Live,4 - (61-100cm),11 NATURAL
+regen_table_big17nov,REMO-PLANT-41,SEGI,Live,1 - (0-15cm),37 NATURAL
+regen_table_big17nov,REMO-PLANT-41,PIPOJE,Live,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-41,SEGI,Dead,1 - (0-15cm),2 PLANTED
+regen_table_big17nov,REMO-PLANT-29,SEGI,Live,2 - (16-30cm),3
+regen_table_big17nov,REMO-PLANT-29,SEGI,Live,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-29,SEGI,Live,1 - (0-15cm),5
+regen_table_big17nov,REMO-PLANT-29,SEGI,Live,4 - (61-100cm),1
+regen_table_big17nov,REMO-PLANT-29,SEGI,Dead,1 - (0-15cm),1
+regen_table_big17nov,REMO-PLANT-34,SEGI,Dead,1 - (0-15cm),7 PLANTED
+regen_table_big17nov,REMO-PLANT-34,PIPOJE,Live,1 - (0-15cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-34,SEGI,Live,4 - (61-100cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-34,SEGI,Live,3 - (31-60cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-26,PIPOJE,Dead,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-26,SEGI,Dead,1 - (0-15cm),6 PLANTED
+regen_table_big17nov,REMO-PLANT-26,CADE,Live,3 - (31-60cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-26,QUKE,Live,3 - (31-60cm),2 NATURAL
+regen_table_big17nov,REMO-PLANT-26,PIPOJE,Live,2 - (16-30cm),1 PLANTED
+regen_table_big17nov,REMO-PLANT-26,SEGI,Live,2 - (16-30cm),"1 PLANTED, SAD"
+regen_table_big17nov,REMO-PLANT-26,ABCO,Live,2 - (16-30cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-14,SEGI,Dead,1 - (0-15cm),8 PLANTED
+regen_table_big17nov,REMO-PLANT-14,SEGI,Dead,1 - (0-15cm),1 NATURAL
+regen_table_big17nov,REMO-PLANT-25,SEGI,Live,3 - (31-60cm),7
+regen_table_big17nov,REMO-PLANT-25,SEGI,Live,2 - (16-30cm),4
+regen_table_big17nov,REMO-PLANT-25,SEGI,Live,1 - (0-15cm),6
+regen_table_big17nov,REMO-PLANT-25,SEGI,Dead,1 - (0-15cm),1
+regen_table_big17nov,REMO-PLANT-25,SEGI,Live,4 - (61-100cm),5
+regen_table_big17nov,REMO-PLANT-39,SEGI,Dead,3 - (31-60cm),"PLANTED, 2"
+regen_table_big17nov,REMO-PLANT-39,SEGI,Dead,2 - (16-30cm),"PLANTED, 2"
+regen_table_big17nov,REMO-PLANT-16,SEGI,Live,1 - (0-15cm),19
+regen_table_big17nov,REMO-PLANT-16,SEGI,Live,2 - (16-30cm),35
+regen_table_big17nov,REMO-PLANT-16,SEGI,Live,3 - (31-60cm),55
+regen_table_big17nov,REMO-PLANT-16,SEGI,Live,4 - (61-100cm),29
+regen_table_big17nov,REMO-PLANT-16,SEGI,Dead,1 - (0-15cm),6
+regen_table_big17nov,REMO-PLANT-16,SEGI,Dead,2 - (16-30cm),5
+regen_table_big17nov,REMO-PLANT-16,SEGI,Dead,3 - (31-60cm),1
+regen_table_big17nov,REMO-PLANT-16,PIPOJE,Live,2 - (16-30cm),"PLANTED, 2"
+regen_table_big17nov,REMO-PLANT-16,SEGI,Live,3 - (31-60cm),"PLANTED, 8"
+regen_table_big17nov,REMO-PLANT-38,SEGI,Live,3 - (31-60cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-38,SEGI,Live,4 - (61-100cm),4
+regen_table_big17nov,REMO-PLANT-38,PIPOJE,Live,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-38,PILA,Live,2 - (16-30cm),PLANTED - 1
+regen_table_big17nov,REMO-PLANT-38,PILA,Live,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-38,SEGI,Live,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-43,PILA,Dead,2 - (16-30cm),1
+regen_table_big17nov,REMO-PLANT-43,SEGI,Live,3 - (31-60cm),2
+regen_table_big17nov,REMO-PLANT-43,NA,NA,NA,NA
+regen_table_big17nov,REME-THIN-12,CADE,Live,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-12,SEGI,Live,1 - (0-15cm),12
+regen_table_big17nov,REME-THIN-12,ABCO,Live,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-14,QUKE,Dead,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-14,QUKE,Live,1 - (0-15cm),3
+regen_table_big17nov,REME-THIN-14,QUKE,Live,2 - (16-30cm),4
+regen_table_big17nov,REME-THIN-14,QUKE,Live,3 - (31-60cm),1
+regen_table_big17nov,REME-THIN-14,CADE,Dead,5 - (101-DBH; 137cm),1
+regen_table_big17nov,REME-THIN-14,ABCO,Live,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-14,CADE,Live,1 - (0-15cm),3
+regen_table_big17nov,REME-THIN-02,SEGI,Live,1 - (0-15cm),97
+regen_table_big17nov,REME-THIN-02,SEGI,Dead,1 - (0-15cm),18
+regen_table_big17nov,REME-THIN-02,QUCH,Live,1 - (0-15cm),2
+regen_table_big17nov,REME-THIN-02,QUKE,Live,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-03,SEGI,Live,1 - (0-15cm),81
+regen_table_big17nov,REME-THIN-03,SEGI,Dead,1 - (0-15cm),11
+regen_table_big17nov,REME-THIN-03,ABCO,Live,4 - (61-100cm),1
+regen_table_big17nov,REME-THIN-03,ABCO,Dead,5 - (101-DBH; 137cm),1
+regen_table_big17nov,REME-THIN-06,SEGI,Live,1 - (0-15cm),42
+regen_table_big17nov,REME-THIN-06,SEGI,Dead,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-06,CADE,Live,1 - (0-15cm),2
+regen_table_big17nov,REME-THIN-06,PIXX,Live,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-07,CADE,Dead,1 - (0-15cm),1
+regen_table_big17nov,REME-THIN-07,CADE,Dead,3 - (31-60cm),2
+regen_table_big17nov,REME-THIN-07,CADE,Dead,4 - (61-100cm),7
+regen_table_big17nov,REME-THIN-07,PILA,Live,3 - (31-60cm),1
+regen_table_big17nov,REME-THIN-07,CADE,Live,1 - (0-15cm),26
+regen_table_big17nov,REME-THIN-07,CADE,Live,2 - (16-30cm),16
+regen_table_big17nov,REME-THIN-07,CADE,Live,3 - (31-60cm),35
+regen_table_big17nov,REME-THIN-07,CADE,Live,4 - (61-100cm),11
+regen_table_big17nov,REME-THIN-07,CADE,Live,5 - (101-DBH; 137cm),14
+regen_table_big17nov,REME-THIN-07,ABCO,Live,2 - (16-30cm),1
+regen_table_big17nov,REME-THIN-07,ABCO,Live,3 - (31-60cm),6
+regen_table_big17nov,REME-THIN-07,ABCO,Live,4 - (61-100cm),2
+regen_table_big17nov,REME-THIN-07,QUKE,Live,3 - (31-60cm),2
+regen_table_big17nov,REME-THIN-07,QUKE,Live,4 - (61-100cm),2
+regen_table_big17nov,REME-THIN-07,SEGI,Live,1 - (0-15cm),58
+regen_table_big17nov,REME-THIN-07,QUCH,Dead,4 - (61-100cm),1
+regen_table_big17nov,USGS-122,SEGI,Live,1 - (0-15cm),7 - NORTH
+regen_table_big17nov,USGS-122,SEGI,Dead,1 - (0-15cm),1 - NORTH
+regen_table_big17nov,USGS-122,SEGI,Live,1 - (0-15cm),407 - SOUTH
+regen_table_big17nov,USGS-122,SEGI,Dead,1 - (0-15cm),61 - SOUTH
+regen_table_big17nov,USGS-122,SEGI,Live,1 - (0-15cm),321 - WEST
+regen_table_big17nov,USGS-122,SEGI,Dead,1 - (0-15cm),145 - WEST
+regen_table_big17nov,USGS-122,SEGI,Live,1 - (0-15cm),619 - EAST
+regen_table_big17nov,USGS-122,SEGI,Dead,1 - (0-15cm),14 - EAST
+regen_table_big17nov,USGS-114,SEGI,Live,1 - (0-15cm),75 - NORTH
+regen_table_big17nov,USGS-114,SEGI,Dead,1 - (0-15cm),11 - NORTH
+regen_table_big17nov,USGS-114,SEGI,Live,1 - (0-15cm),24 - SOUTH
+regen_table_big17nov,USGS-114,SEGI,Dead,1 - (0-15cm),14 - SOUTH
+regen_table_big17nov,USGS-114,SEGI,Live,1 - (0-15cm),291 - WEST
+regen_table_big17nov,USGS-114,SEGI,Live,1 - (0-15cm),35 - WEST
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,PIPO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,PIPO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,PIPO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),BROKEN TOP
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,QUKE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,PIPO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,CADE,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-11,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-03,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-03,CADE,Live,0 - (newborns),NA
+regen_table_lil11nov,EAFR-RX-03,CADE,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,CADE,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-03,CADE,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,PILA,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-03,CADE,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-02,SEGI,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-02,ABCO,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),33
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,5 - (101-DBH; 137cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-17,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,EAFR-RX-17,NA,NA,NA,NA
+regen_table_lil11nov,EAFR-RX-06,ABCO,Live,3 - (31-60cm),1
+regen_table_lil11nov,EAFR-RX-06,CADE,Live,1 - (0-15cm),9
+regen_table_lil11nov,EAFR-RX-06,CADE,Dead,1 - (0-15cm),1
+regen_table_lil11nov,EAFR-RX-06,PILA,Live,1 - (0-15cm),1
+regen_table_lil11nov,EAFR-RX-06,PILA,Live,2 - (16-30cm),1
+regen_table_lil11nov,EAFR-RX-12,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,EAFR-RX-12,ABCO,Live,2 - (16-30cm),4
+regen_table_lil11nov,EAFR-RX-12,ABCO,Live,3 - (31-60cm),28
+regen_table_lil11nov,EAFR-RX-12,ABCO,Live,4 - (61-100cm),60
+regen_table_lil11nov,EAFR-RX-12,ABCO,Live,5 - (101-DBH; 137cm),23
+regen_table_lil11nov,EAFR-RX-12,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-12,ABCO,Dead,2 - (16-30cm),NA
+regen_table_lil11nov,EAFR-RX-12,ABCO,Dead,3 - (31-60cm),NA
+regen_table_lil11nov,EAFR-RX-12,ABCO,Dead,4 - (61-100cm),6
+regen_table_lil11nov,EAFR-RX-12,CADE,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,EAFR-RX-12,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-03,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_lil11nov,SECR-PILE-03,ABCO,Live,2 - (16-30cm),4
+regen_table_lil11nov,SECR-PILE-03,ABCO,Live,3 - (31-60cm),1
+regen_table_lil11nov,SECR-PILE-03,PILA,Live,4 - (61-100cm),1
+regen_table_lil11nov,SECR-PILE-03,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_lil11nov,SECR-PILE-03,QUKE,Live,2 - (16-30cm),2
+regen_table_lil11nov,SECR-PILE-03,QUKE,Live,1 - (0-15cm),4
+regen_table_lil11nov,SECR-PILE-03,QUCH,Live,2 - (16-30cm),1
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),SAD
+regen_table_lil11nov,SECR-PILE-04,SEGI,Dead,3 - (31-60cm),NA
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,2 - (16-30cm),7
+regen_table_lil11nov,SECR-PILE-04,PILA,Live,1 - (0-15cm),NA
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),"SAD, DeadTop"
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),SAD
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),SAD
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),SAD
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,3 - (31-60cm),60
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,1 - (0-15cm),NA
+regen_table_lil11nov,SECR-PILE-04,ABCO,Live,3 - (31-60cm),4
+regen_table_lil11nov,SECR-PILE-04,PILA,Dead,4 - (61-100cm),NA
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),81
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,5 - (101-DBH; 137cm),29
+regen_table_lil11nov,SECR-PILE-04,ABCO,Live,5 - (101-DBH; 137cm),2
+regen_table_lil11nov,SECR-PILE-04,ABCO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,SECR-PILE-04,CADE,Live,4 - (61-100cm),2
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,2 - (16-30cm),DeadTop
+regen_table_lil11nov,SECR-PILE-04,PILA,Live,5 - (101-DBH; 137cm),NA
+regen_table_lil11nov,SECR-PILE-04,SEGI,Dead,3 - (31-60cm),2
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),"SAD, 5"
+regen_table_lil11nov,SECR-PILE-04,SEGI,Live,4 - (61-100cm),"SAD, DeadTop"
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-04,NA,NA,NA,NA
+regen_table_lil11nov,SECR-PILE-02,ABCO,Live,1 - (0-15cm),12
+regen_table_lil11nov,SECR-PILE-02,CADE,Live,2 - (16-30cm),1
+regen_table_lil11nov,SECR-PILE-02,ABCO,Live,2 - (16-30cm),6
+regen_table_lil11nov,SECR-PILE-02,ABCO,Live,3 - (31-60cm),6
+regen_table_lil11nov,SECR-PILE-02,ABCO,Dead,2 - (16-30cm),1
+regen_table_lil11nov,SECR-PILE-02,ABCO,Live,3 - (31-60cm),1 (SAD)
+regen_table_lil11nov,SECR-PILE-02,ABCO,Dead,3 - (31-60cm),1
+regen_table_lil11nov,SECR-THIN-03,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,SECR-THIN-03,NONE,Live,2 - (16-30cm),CONU
+regen_table_lil11nov,SECR-THIN-03,NONE,Live,2 - (16-30cm),CONU
+regen_table_lil11nov,SECR-THIN-03,PILA,Live,2 - (16-30cm),NA
+regen_table_lil11nov,SECR-THIN-04,PILA,Live,3 - (31-60cm),1
+regen_table_lil11nov,SECR-THIN-04,PILA,Live,4 - (61-100cm),2
+regen_table_lil11nov,SECR-THIN-04,CADE,Live,1 - (0-15cm),1
+regen_table_lil11nov,SECR-THIN-04,CADE,Live,3 - (31-60cm),IGNORE
+regen_table_lil11nov,SECR-THIN-04,PIPO,Live,4 - (61-100cm),1
+regen_table_lil11nov,SECR-THIN-04,SEGI,Live,3 - (31-60cm),2
+regen_table_lil11nov,SECR-THIN-04,ABCO,Live,2 - (16-30cm),1
+regen_table_lil11nov,SECR-THIN-04,PILA,Live,3 - (31-60cm),1
+regen_table_lil11nov,SECR-THIN-04,ABCO,Live,1 - (0-15cm),1
+regen_table_lil11nov,SECR-THIN-04,ABCO,Dead,1 - (0-15cm),1
+regen_table_lil11nov,SECR-THIN-04,ABCO,Live,2 - (16-30cm),1
+regen_table_lil11nov,SECR-THIN-04,PIPO,Live,3 - (31-60cm),1
+regen_table_lil11nov,SECR-THIN-04,ABCO,Live,2 - (16-30cm),1
+regen_table_lil11nov,SECR-THIN-04,PILA,Live,3 - (31-60cm),1
+regen_table_lil11nov,SECR-THIN-04,SEGI,Live,4 - (61-100cm),1
+regen_table_lil11nov,SECR-THIN-04,PILA,Live,2 - (16-30cm),1
+regen_table_lil11nov,SECR-THIN-04,CADE,Live,4 - (61-100cm),1
+regen_table_lil11nov,SECR-THIN-04,CADE,Live,3 - (31-60cm),1
+regen_table_lil11nov,SECR-THIN-04,CADE,Live,2 - (16-30cm),2
+regen_table_lil11nov,SECR-THIN-04,ABCO,Live,1 - (0-15cm),1
+regen_table_lil11nov,SECR-THIN-04,PILA,Live,3 - (31-60cm),1
+regen_table_lil11nov,SECR-THIN-04,PILA,Live,2 - (16-30cm),2
+regen_table_lil11nov,SECR-THIN-04,ABCO,Live,1 - (0-15cm),1
+regen_table_lil11nov,SECR-THIN-04,PIJE,Live,1 - (0-15cm),1
+regen_table_lil11nov,SECR-THIN-05,PIPO,Live,4 - (61-100cm),NA
+regen_table_lil11nov,SECR-THIN-05,CADE,Live,1 - (0-15cm),4
+regen_table_lil11nov,SECR-THIN-05,ABCO,Live,3 - (31-60cm),NA
+regen_table_lil11nov,SECR-THIN-05,PILA,Live,3 - (31-60cm),NA
+regen_table_lil11nov,SECR-THIN-05,PILA,Live,1 - (0-15cm),NA
+regen_table_lil11nov,SECR-THIN-05,ABCO,Live,1 - (0-15cm),NA
+regen_table_lil11nov,SECR-THIN-01,ABCO,Live,1 - (0-15cm),4
+regen_table_lil11nov,SECR-THIN-01,PILA,Live,2 - (16-30cm),1
+regen_table_lil11nov,SECR-THIN-01,PILA,Live,1 - (0-15cm),1
+regen_table_lil11nov,SECR-THIN-01,NONE,Live,3 - (31-60cm),2 (CONU)
+regen_table_lil11nov,SECR-THIN-01,NONE,Live,2 - (16-30cm),1 (CONU)
+regen_table_lil11nov,SECR-THIN-01,NONE,Live,4 - (61-100cm),1 (CONU)
+regen_table_lil11nov,EAFR-RX-23,CADE,Live,3 - (31-60cm),9
+regen_table_lil11nov,EAFR-RX-23,CADE,Live,4 - (61-100cm),1
+regen_table_lil11nov,EAFR-RX-23,SEGI,Dead,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-23,CADE,Live,2 - (16-30cm),1
+regen_table_lil11nov,EAFR-RX-23,PIPO,Live,3 - (31-60cm),1
+regen_table_lil11nov,EAFR-RX-23,CADE,Live,4 - (61-100cm),2
+regen_table_lil11nov,EAFR-RX-23,ABCO,Live,3 - (31-60cm),2
+regen_table_lil11nov,EAFR-RX-23,CADE,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-23,CADE,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-23,ABCO,Live,4 - (61-100cm),1
+regen_table_lil11nov,EAFR-RX-18,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_lil11nov,EAFR-RX-18,ABCO,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-18,ABCO,Live,1 - (0-15cm),1
+regen_table_lil11nov,EAFR-RX-18,ABCO,Live,3 - (31-60cm),6
+regen_table_lil11nov,EAFR-RX-14,NONE,NA,NA,NA
+regen_table_lil11nov,EAFR-RX-15,ABCO,Live,2 - (16-30cm),2
+regen_table_lil11nov,EAFR-RX-15,ABCO,Live,3 - (31-60cm),2
+regen_table_lil11nov,EAFR-RX-15,ABCO,Live,4 - (61-100cm),3
+regen_table_lil11nov,EAFR-RX-15,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_lil11nov,EAFR-RX-09,ABCO,Live,1 - (0-15cm),3
+regen_table_lil11nov,EAFR-RX-05,ABCO,Live,1 - (0-15cm),3
+regen_table_lil11nov,EAFR-RX-05,ABCO,Live,3 - (31-60cm),8
+regen_table_lil11nov,EAFR-RX-05,QUKE,Live,3 - (31-60cm),3
+regen_table_lil11nov,EAFR-RX-05,ABCO,Live,2 - (16-30cm),7
+regen_table_lil11nov,EAFR-RX-05,PILA,Live,2 - (16-30cm),3
+regen_table_lil11nov,EAFR-RX-05,ABCO,Live,5 - (101-DBH; 137cm),1
+regen_table_lil11nov,EAFR-RX-05,PILA,Live,1 - (0-15cm),1
+regen_table_lil11nov,EAFR-RX-05,QUKE,Live,1 - (0-15cm),2
+regen_table_lil11nov,EAFR-RX-05,ABCO,Live,4 - (61-100cm),2
+regen_table_lil11nov,EAFR-RX-05,QUKE,Live,5 - (101-DBH; 137cm),1
+regen_table_lil11nov,EAFR-RX-29,ABCO,Live,4 - (61-100cm),82
+regen_table_lil11nov,EAFR-RX-29,ABCO,Live,3 - (31-60cm),20
+regen_table_lil11nov,EAFR-RX-29,ABCO,Live,5 - (101-DBH; 137cm),62
+regen_table_lil11nov,EAFR-RX-29,ABCO,Live,2 - (16-30cm),6
+regen_table_lil11nov,EAFR-RX-29,PILA,Live,5 - (101-DBH; 137cm),1
+regen_table_lil11nov,EAFR-RX-29,PILA,Live,4 - (61-100cm),1
+regen_table_lil11nov,EAFR-RX-29,ABCO,Live,1 - (0-15cm),1
+regen_table_lil11nov,REME-THIN-14,QUKE,Dead,1 - (0-15cm),1
+regen_table_lil11nov,REME-THIN-14,QUKE,Live,3 - (31-60cm),3
+regen_table_lil11nov,REME-THIN-14,QUKE,Live,4 - (61-100cm),4
+regen_table_lil11nov,REME-THIN-14,QUKE,Live,1 - (0-15cm),1
+regen_table_lil11nov,REME-THIN-14,CADE,Dead,1 - (0-15cm),1
+regen_table_lil11nov,REME-THIN-14,ABCO,Live,1 - (0-15cm),1
+regen_table_lil11nov,REME-THIN-14,CADE,Live,3 - (31-60cm),3
+regen_table_lil17nov,REME-THIN-14,QUKE,Dead,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-14,QUKE,Live,3 - (31-60cm),3
+regen_table_lil17nov,REME-THIN-14,QUKE,Live,4 - (61-100cm),4
+regen_table_lil17nov,REME-THIN-14,QUKE,Live,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-14,CADE,Dead,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-14,ABCO,Live,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-14,CADE,Live,3 - (31-60cm),3
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,3 - (31-60cm),67
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,4 - (61-100cm),64
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,1 - (0-15cm),28
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,2 - (16-30cm),36
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,1 - (0-15cm),"PLANTED, 5"
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,2 - (16-30cm),"PLANTED, 18"
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,5 - (101-DBH; 137cm),9
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Live,3 - (31-60cm),"PLANTED, 3"
+regen_table_lil17nov,REMO-PLANT-45,PIPO,Live,3 - (31-60cm),"2, PIPOJE"
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Dead,1 - (0-15cm),10
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Dead,3 - (31-60cm),1
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Dead,1 - (0-15cm),"PLANTED, 4"
+regen_table_lil17nov,REMO-PLANT-45,SEGI,Dead,2 - (16-30cm),3
+regen_table_lil17nov,REME-THIN-26,QUKE,Live,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-26,QUKE,Live,2 - (16-30cm),6
+regen_table_lil17nov,REME-THIN-26,QUKE,Live,3 - (31-60cm),11
+regen_table_lil17nov,REME-THIN-26,QUKE,Live,4 - (61-100cm),7
+regen_table_lil17nov,REME-THIN-11,QUKE,Live,1 - (0-15cm),3
+regen_table_lil17nov,REME-THIN-11,QUKE,Live,2 - (16-30cm),84
+regen_table_lil17nov,REME-THIN-11,QUKE,Live,3 - (31-60cm),276
+regen_table_lil17nov,REME-THIN-11,QUKE,Live,4 - (61-100cm),4
+regen_table_lil17nov,REME-THIN-11,CADE,Live,1 - (0-15cm),5
+regen_table_lil17nov,REME-THIN-11,CADE,Dead,2 - (16-30cm),1
+regen_table_lil17nov,REME-THIN-11,ABCO,Live,1 - (0-15cm),3
+regen_table_lil17nov,REME-THIN-11,QUKE,Dead,3 - (31-60cm),9
+regen_table_lil17nov,REME-THIN-23,CADE,Dead,1 - (0-15cm),2
+regen_table_lil17nov,REME-THIN-23,CADE,Dead,2 - (16-30cm),3
+regen_table_lil17nov,REME-THIN-23,CADE,Dead,3 - (31-60cm),18
+regen_table_lil17nov,REME-THIN-23,CADE,Dead,4 - (61-100cm),6
+regen_table_lil17nov,REME-THIN-23,CADE,Dead,5 - (101-DBH; 137cm),5
+regen_table_lil17nov,REME-THIN-23,CADE,Live,1 - (0-15cm),12
+regen_table_lil17nov,REME-THIN-23,CADE,Live,3 - (31-60cm),4
+regen_table_lil17nov,REME-THIN-23,ABCO,Dead,2 - (16-30cm),4
+regen_table_lil17nov,REME-THIN-23,ABCO,Dead,3 - (31-60cm),7
+regen_table_lil17nov,REME-THIN-23,ABCO,Dead,4 - (61-100cm),14
+regen_table_lil17nov,REME-THIN-23,ABCO,Dead,5 - (101-DBH; 137cm),6
+regen_table_lil17nov,REME-THIN-23,QUKE,Live,1 - (0-15cm),5
+regen_table_lil17nov,REME-THIN-23,QUKE,Live,2 - (16-30cm),2
+regen_table_lil17nov,REME-THIN-23,PIPO,Dead,3 - (31-60cm),1
+regen_table_lil17nov,REME-THIN-10,SEGI,Live,1 - (0-15cm),91
+regen_table_lil17nov,REME-THIN-10,CADE,Live,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-10,ABCO,Dead,3 - (31-60cm),3
+regen_table_lil17nov,REME-THIN-10,ABCO,Dead,4 - (61-100cm),3
+regen_table_lil17nov,REME-THIN-10,PILA,Dead,3 - (31-60cm),2
+regen_table_lil17nov,REME-THIN-25,SEGI,Live,NA,1760
+regen_table_lil17nov,REME-THIN-25,SEGI,Dead,NA,156
+regen_table_lil17nov,REME-THIN-18,QUKE,Live,3 - (31-60cm),1
+regen_table_lil17nov,REME-THIN-18,QUCH,Live,1 - (0-15cm),6
+regen_table_lil17nov,REME-THIN-18,SEGI,Live,1 - (0-15cm),8
+regen_table_lil17nov,REME-THIN-18,SEGI,Dead,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-27,CADE,Live,1 - (0-15cm),15
+regen_table_lil17nov,REME-THIN-27,ABCO,Live,1 - (0-15cm),2
+regen_table_lil17nov,REME-THIN-15,QUKE,Live,1 - (0-15cm),1
+regen_table_lil17nov,REME-THIN-15,CADE,Dead,1 - (0-15cm),2
+regen_table_lil17nov,REME-THIN-15,SEGI,Live,1 - (0-15cm),2
+regen_table_lil17nov,REME-THIN-15,CADE,Live,1 - (0-15cm),1
+regen_table_lil17nov,USGS-409001,SEGI,Live,1 - (0-15cm),222 - S
+regen_table_lil17nov,USGS-409001,SEGI,Dead,1 - (0-15cm),3 - S
+regen_table_lil17nov,USGS-409001,SEGI,Dead,1 - (0-15cm),2 - E
+regen_table_lil17nov,USGS-409001,SEGI,Live,1 - (0-15cm),16 - E
+regen_table_lil17nov,USGS-409001,CONU,Live,4 - (61-100cm),1 - E
+regen_table_lil17nov,USGS-409001,ABCO,Live,5 - (101-DBH; 137cm),1 - W
+regen_table_lil17nov,USGS-409001,SEGI,Live,1 - (0-15cm),10 - N
+regen_table_lil17nov,USGS-409005,SEGI,Live,1 - (0-15cm),1 - N
+regen_table_lil17nov,USGS-409005,SEGI,Live,1 - (0-15cm),1 - S
+regen_table_lil17nov,USGS-409005,SEGI,Live,1 - (0-15cm),16 - E
+regen_table_lil17nov,USGS-409005,SEGI,Dead,1 - (0-15cm),1 - E
+regen_table_lil17nov,USGS-409003,ABCO,Dead,3 - (31-60cm),1 - N
+regen_table_lil17nov,USGS-409003,ABCO,Live,3 - (31-60cm),1 - N
+regen_table_lil17nov,USGS-409003,SEGI,Live,1 - (0-15cm),2 - N
+regen_table_lil17nov,USGS-409003,SEGI,Live,1 - (0-15cm),6 - S
+regen_table_lil17nov,USGS-409003,SEGI,Dead,1 - (0-15cm),5 - S
+regen_table_lil17nov,USGS-409003,ABCO,Live,1 - (0-15cm),1 - E
+regen_table_lil17nov,USGS-409003,ABCO,Live,3 - (31-60cm),20 - E
+regen_table_lil17nov,USGS-409003,ABCO,Live,4 - (61-100cm),12 - E
+regen_table_lil17nov,USGS-409003,ABCO,Live,5 - (101-DBH; 137cm),10 - E
+regen_table_lil17nov,USGS-409003,PILA,Live,1 - (0-15cm),1 - E
+regen_table_lil17nov,USGS-409003,PILA,Live,5 - (101-DBH; 137cm),2 - E
+regen_table_lil17nov,USGS-409003,CADE,Live,5 - (101-DBH; 137cm),1 - E
+regen_table_lil17nov,USGS-409003,SEGI,Live,1 - (0-15cm),4 - W
+regen_table_lil17nov,USGS-409003,SEGI,Dead,1 - (0-15cm),7 - W

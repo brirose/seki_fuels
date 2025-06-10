@@ -1,0 +1,190 @@
+---
+title: "master_list"
+author: "Shive Lab (B. Baker)"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(sf)
+library(here)
+library(janitor)
+
+```
+#2023 Plots
+
+```{r}
+#some not established
+atwe23_a <- st_read(here("data/2023_points/AtwellPlotSelection)GRTS_18July2023.shp")) %>% 
+  clean_names() %>% 
+  filter(yr_complete == 2023) %>% 
+  rename(yr_installed = yr_complete) %>% 
+  mutate(read24 = "No",
+         grove_name = "ATWE",
+         src = "GRTS") %>% 
+  select(plot_id, grove_name, yr_installed, read24, src)
+
+#all established
+reme23 <- st_read(here("data/2023_points/REME_Placed_Plots.shp")) %>% 
+  clean_names() %>% 
+  select(installed, ident) %>% 
+  rename(yr_installed = installed,
+         plot_id = ident) %>% 
+  mutate(
+    grove_name= "REME",
+    read24 = "Yes",
+    src = "arrow"
+  )
+
+#all established
+secr23 <- st_read(here("data/2023_points/SECR_All_Plots.shp")) %>% 
+  clean_names() %>% 
+  select(plot_id, installed) %>% 
+  rename(yr_installed = installed) %>% 
+  mutate(
+    grove_name= "SECR",
+    read24 = "Yes",
+    src = "arrow"
+  )
+
+
+atwe23 <- st_read(here("data/2023_points/ALL_Points_2023/SEKI_2023_all_points.shp")) %>% 
+  filter(grepl("ATWE", ident),
+         !is.na(time),
+         !grepl("P", ident)) %>% 
+  rename(plot_id = ident) %>% 
+  separate(plot_id, c("grove", "type", "num"), "-") %>% 
+  mutate(num = sprintf("%02d", as.numeric(num)),
+         plot_id = paste(grove, type, num, sep = "-"),
+         src = "gps",
+         grove_name = "ATWE",
+         read24 = "No",
+         yr_installed = 2023) %>% 
+  select(plot_id, grove_name, yr_installed, read24, src)
+  
+lost23 <- st_read(here("data/2023_points/ALL_Points_2023/SEKI_2023_all_points.shp")) %>% 
+  filter(grepl("LOST", ident),
+         !is.na(time),
+         !grepl("P", ident)) %>% 
+  rename(plot_id = ident) %>% 
+  separate(plot_id, c("grove", "type", "num"), "-") %>% 
+  mutate(num = sprintf("%02d", as.numeric(num)),
+         plot_id = paste(grove, type, num, sep = "-"),
+         src = "gps",
+         grove_name = "LOST",
+         read24 = "No",
+         yr_installed = 2023) %>% 
+  select(plot_id, grove_name, yr_installed, read24, src)
+  
+
+
+```
+
+#2024 Plots
+```{r}
+#note different CRS
+arrow <- st_read(here("data/arrowpts_2024/arrowpts_2024.shp")) %>% 
+  clean_names() %>% 
+  slice(36:n()) %>% 
+  mutate(
+    src = "arrow",
+    grove = str_extract(plot_id, "^\\w{4}"),
+    grove = case_when(grove == "USGS" ~ "REME",
+                      T~ grove)
+  )
+
+atwe24 <- st_read(here("data/2024_points/ATWE/Trip13_11November24.shp")) %>% 
+  clean_names() %>% 
+  mutate(
+    plot_id = str_trunc(ident, 12, ellipsis = ""),
+    grove_name = "ATWE",
+    yr_installed = 2024,
+    read24 = "Yes",
+    src = "gps"
+  ) %>% 
+  select(plot_id, grove_name, yr_installed, read24, src)
+
+bistgrgr24 <- st_read(here("data/2024_points/BIST & GRGR/Trip9_15September24.shp")) %>% 
+  clean_names() %>% 
+  filter(grepl("-", ident)) %>% 
+  mutate(
+    grove_name = case_when(
+      grepl("B", ident) ~ "BIST",
+      grepl("G", ident) ~ "GRGR"
+    ),
+    yr_installed = 2024,
+    read24 = "Yes",
+    src = "gps"
+  ) %>% 
+  rename(plot_id = ident)%>% 
+  select(plot_id, grove_name, yr_installed, read24,
+         src)
+
+
+eafr24 <- st_read(here("data/2024_points/EAFR/Trip8_26August24.shp")) %>% 
+  clean_names() %>% 
+  mutate(
+    plot_id = ident,
+    grove_name = "EAFO",
+    yr_installed = 2024,
+    read24 = "Yes",
+    src = "gps"
+  ) %>% 
+  select(plot_id, grove_name, yr_installed, read24, src)
+
+#need redwood meadow?
+remeUsgs <- read_delim(here("data/2024_points/REME/USGS_REME_2023.txt")) %>% 
+  st_as_sf(coords = c("x_proj", "y_proj"), crs = 26911) %>% 
+  mutate(
+    grove_name = "REME",
+    yr_installed = 2024,
+    read24 = case_when(ident == 409004  ~ "No",
+                       T ~ "Yes"),
+    plot_id = paste("REME-USGS-", ident, sep = ""),
+    src = "gps"
+  ) %>% 
+  select(-ident)
+
+remo24 <- st_read(here("data/2023_points/REMO_MonitoringPlots_6November23_actual_FINAL.shp")) %>% 
+   mutate(
+    plot_id = str_trunc(ident, 13, ellipsis = ""),
+    grove_name = "REMO",
+    yr_installed = 2023,
+    read24 = "Yes",
+    src = "gps"
+  ) %>% 
+  select(plot_id, grove_name, yr_installed, read24, src)
+
+eafr25 <- read_csv(here("data/2024_points/EAFR/eafr_remaining_2024.csv")) %>% 
+  st_as_sf(coords = c("x_proj", "y_proj"), crs = 26911) %>% 
+  mutate(
+    grove_name = "EAFR",
+    yr_installed = 2025,
+    read24 = "No",
+    src = "GRTS"
+  ) %>% 
+  select(plot_id, grove_name, yr_installed, read24, src)
+  
+```
+
+```{r}
+fuelsplots_all <- atwe23 %>% 
+  bind_rows(atwe24) %>% 
+  bind_rows(bistgrgr24) %>% 
+  bind_rows(eafr24) %>% 
+  bind_rows(lost23) %>% 
+  bind_rows(reme23) %>% 
+  bind_rows(remeUsgs) %>%
+  bind_rows(remo24) %>% 
+  bind_rows(secr23) %>% 
+  bind_rows(eafr25) %>% 
+  mutate(plot_type = str_extract(plot_id, "(?<=-)\\w+(?=)")) #%>% 
+
+
+st_write(fuelsplots_all, here("data/fuelsplots_all_18Dec2024.shp"), append = F)
+
+```
+
