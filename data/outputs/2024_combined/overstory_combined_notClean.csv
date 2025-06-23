@@ -1,4 +1,4 @@
-name,PlotID,Species,LiveStatus,DBH_cm,Height_m,Ht_LiveCrown,Broken_top,Dead_top,Fading.reduced_foliage,Beetle_sign,BlisterRust,Notes,prefire_Ht_LiveCrown,Ht_Char,Scorch_per,Torch_per
+name,plot_id,species,live_status,dbh_cm,height_m,ht_live_crown,broken_top,dead_top,fading_reduced_foliage,beetle_sign,blister_rust,notes,prefire_ht_live_crown,ht_char,scorch_per,torch_per
 overstory_table_big11nov,TEST-01,ABCO,Live,37.5,25.2,10.6,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA,NA
 overstory_table_big11nov,TEST-01,PILA,Live,64.5,34.4,16.1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA,NA
 overstory_table_big11nov,TEST-01,ABCO,Dead,33.6,25.2,0,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA,NA

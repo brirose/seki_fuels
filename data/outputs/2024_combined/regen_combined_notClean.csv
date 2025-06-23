@@ -1,4 +1,4 @@
-name,PlotID,Species,LiveStatus,Ht_Class,Notes
+name,plot_id,species,live_status,ht_class,notes
 regen_table_big11nov,EAFR-RX-20,ABCO,Live,1 - (0-15cm),8
 regen_table_big11nov,EAFR-RX-20,ABCO,Live,2 - (16-30cm),8
 regen_table_big11nov,EAFR-RX-20,ABCO,Live,3 - (31-60cm),48

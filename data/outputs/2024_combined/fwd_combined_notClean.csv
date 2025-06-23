@@ -1,4 +1,4 @@
-name,PlotID,Transect,FWD_1_hour,FWD_10_hour,FWD_100_hour,Litter1,Duff_1,Litter_2,Duff_2,Litter_3,Duff_3,Litter_4,Duff_4,Litter_5,Duff_5,Notes,Recorders
+name,plot_id,transect,fwd_1_hour,fwd_10_hour,fwd_100_hour,litter1,duff_1,litter_2,duff_2,litter_3,duff_3,litter_4,duff_4,litter_5,duff_5,notes,recorders
 fuels_fwd_table_big11nov,ATWE-THIN-01,E,10,7,2,7.9,2,8.3,2.8,5.7,2.2,7.9,2.9,6.8,3.1,NA,AE
 fuels_fwd_table_big11nov,ATWE-THIN-01,N,10,2,2,8.9,7.6,8.5,2.8,7.4,1.2,14.3,2.1,7.6,2.9,SAMPLE 2 BUMPED 5FT RIGHT,AE
 fuels_fwd_table_big11nov,ATWE-THIN-01,S,18,9,3,5,3.8,5.3,4.4,6.8,5.1,8.2,4.7,6.7,1.3,NA,AE

@@ -12,7 +12,7 @@ library(tidyverse)
 library(readxl)
 library(janitor)
 ```
-
+#Combine files
 ```{r}
 #Load access files
 fuelsfiles <- list.files(path=here("data/2024_toCombine/access_files"), full.names=T) #define files
@@ -37,7 +37,7 @@ for (i in form_shortnames) {
   
   formdat <- fuelsdat[str_detect(fuelsnames, form)]
   
-  form_df <- map_df(formdat, data.frame, .id = 'name')
+  form_df <- map_df(formdat, data.frame, .id = 'name') %>% clean_names()
   
   write_csv(form_df, here(paste("data/outputs/2024_combined/",form,"_combined_notClean.csv", sep = "")))
   
@@ -69,6 +69,22 @@ ptInter <- Ndat %>%
   mutate_all(~replace(., is.na(.), "none"))
 
 write_csv(ptInter, here("data/outputs/2024_combined/ptInter_combined_notClean.csv"))
+
+```
+
+
+#Combine with 2023
+
+```{r}
+
+```
+
+
+
+
+
+# Cleaning
+```{r}
 
 ```
 

@@ -1,4 +1,4 @@
-name,PlotID,TagNo,Easting,Northing,Aspect,Percent.Slope,ReadStatus,DateRead,Recorders,Notes,Dens_N,Dens_E,Dens_S,Dens_W,ID
+name,plot_id,tag_no,easting,northing,aspect,percent_slope,read_status,date_read,recorders,notes,dens_n,dens_e,dens_s,dens_w,id
 plotoverview_table_big11nov,ATWE-RX-40,3734,349477,4036768,34,42,PRE-RX,2024-11-04T00:00:00Z,AE,"ACCIDENTAL MISNAME, IGNORE SHEET",69,72,83,88,33
 plotoverview_table_big11nov,ATWE-THIN-01,0,0,0,189,21,PRE-RX,2024-11-05T00:00:00Z,NA,"IGNORE SHEET, PLOT ALREADY READ IN 2023",0,0,0,0,34
 plotoverview_table_big11nov,ATWE-THIN-02,3741,349239,4037582,138,35,PRE-RX,2024-11-06T00:00:00Z,"KF,AE,TH,AW",NO FWD MEASUREMENTS TAKEN FOR WEST LINE BECAUSE IT IS ENTIRELY ON BEDROCK. UNABLE TO OBTAIN AN ARROW POINT,69,79,64,70,41

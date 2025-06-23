@@ -1,4 +1,4 @@
-name,PlotID,Diameter_cm,Decay_Class,Notes,Transect
+name,plot_id,diameter_cm,decay_class,notes,transect
 fuels_cwd_table_child_big11nov,SECR-THIN-02,52,Rotten,NA,W
 fuels_cwd_table_child_big11nov,EAFR-RX-02,19,Sound,NA,N
 fuels_cwd_table_child_big11nov,EAFR-RX-07,12,Sound,NA,W

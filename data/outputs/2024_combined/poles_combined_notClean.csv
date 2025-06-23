@@ -1,4 +1,4 @@
-name,PlotID,Species,LiveStatus,Ht_Class,Ht_LiveCrn_Class,Notes,Tally,Tally1
+name,plot_id,species,live_status,ht_class,ht_live_crn_class,notes,tally,tally1
 poles_table_big11nov,NA,NA,NA,NA,NA,NA,1,NA
 poles_table_big11nov,ATWE-RX-40,CADE,Live,6 - (DBH; 1.37m - 2m),1HL - (0-0.5m),NA,6,NA
 poles_table_big11nov,ATWE-THIN-02,ABCO,Live,6 - (DBH; 1.37m - 2m),1HL - (0-0.5m),NA,3,NA
